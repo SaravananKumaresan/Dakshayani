@@ -1,0 +1,62 @@
+2025-07-10 22:20:10,043 | INFO | 0058 | PASSED: Shipping Unit Indicator
+2025-07-10 22:20:21,020 | INFO | 0167 | PASSED: gpc Attribute Type Definition
+2025-07-10 22:21:04,463 | INFO | 0790 | PASSED: Zero results
+2025-07-10 22:21:46,980 | INFO | 1525 | PASSED: short Trade Item Marketing Message
+2025-07-10 22:25:33,629 | INFO | 0058 | PASSED: Shipping Unit Indicator
+2025-07-10 22:25:44,630 | INFO | 0167 | PASSED: gpc Attribute Type Definition
+2025-07-10 22:26:16,545 | INFO | 0805 | PASSED: NO Tname and no Bname
+2025-07-10 22:26:38,237 | ERROR | 0805 | FAILED: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff696ec82c5+23461]
+	(No symbol) [0x0x7ff696e1c3b0]
+	GetHandleVerifier [0x0x7ff6971401f8+2611928]
+	(No symbol) [0x0x7ff696c391a8]
+	(No symbol) [0x0x7ff696c3946b]
+	(No symbol) [0x0x7ff696c79a67]
+	(No symbol) [0x0x7ff696c5a6ff]
+	(No symbol) [0x0x7ff696c2f58d]
+	(No symbol) [0x0x7ff696c7754f]
+	(No symbol) [0x0x7ff696c5a423]
+	(No symbol) [0x0x7ff696c2ea86]
+	(No symbol) [0x0x7ff696c2dd11]
+	(No symbol) [0x0x7ff696c2e8b3]
+	(No symbol) [0x0x7ff696d2dd3d]
+	(No symbol) [0x0x7ff696d3b0c8]
+	GetHandleVerifier [0x0x7ff696fa810b+940523]
+	GetHandleVerifier [0x0x7ff696fb0e61+976705]
+	(No symbol) [0x0x7ff696e29fa1]
+	(No symbol) [0x0x7ff696e22984]
+	(No symbol) [0x0x7ff696e22ad3]
+	(No symbol) [0x0x7ff696e14576]
+	BaseThreadInitThunk [0x0x7ffdcdcce8d7+23]
+	RtlUserThreadStart [0x0x7ffdced3c34c+44]
+
+2025-07-10 22:26:48,548 | INFO | 0790 | PASSED: Zero results
+2025-07-10 22:27:19,270 | INFO | 0965 | PASSED: NO Tname and no Bname
+2025-07-10 22:27:40,951 | ERROR | 0965 | FAILED: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff696ec82c5+23461]
+	(No symbol) [0x0x7ff696e1c3b0]
+	GetHandleVerifier [0x0x7ff6971401f8+2611928]
+	(No symbol) [0x0x7ff696c391a8]
+	(No symbol) [0x0x7ff696c3946b]
+	(No symbol) [0x0x7ff696c79a67]
+	(No symbol) [0x0x7ff696c5a6ff]
+	(No symbol) [0x0x7ff696c2f58d]
+	(No symbol) [0x0x7ff696c7754f]
+	(No symbol) [0x0x7ff696c5a423]
+	(No symbol) [0x0x7ff696c2ea86]
+	(No symbol) [0x0x7ff696c2dd11]
+	(No symbol) [0x0x7ff696c2e8b3]
+	(No symbol) [0x0x7ff696d2dd3d]
+	(No symbol) [0x0x7ff696d3b0c8]
+	GetHandleVerifier [0x0x7ff696fa810b+940523]
+	GetHandleVerifier [0x0x7ff696fb0e61+976705]
+	(No symbol) [0x0x7ff696e29fa1]
+	(No symbol) [0x0x7ff696e22984]
+	(No symbol) [0x0x7ff696e22ad3]
+	(No symbol) [0x0x7ff696e14576]
+	BaseThreadInitThunk [0x0x7ffdcdcce8d7+23]
+	RtlUserThreadStart [0x0x7ffdced3c34c+44]
+
+2025-07-10 22:27:51,507 | INFO | 1525 | PASSED: short Trade Item Marketing Message
