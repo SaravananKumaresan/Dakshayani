@@ -1,62 +1,1302 @@
-2025-07-10 22:20:10,043 | INFO | 0058 | PASSED: Shipping Unit Indicator
-2025-07-10 22:20:21,020 | INFO | 0167 | PASSED: gpc Attribute Type Definition
-2025-07-10 22:21:04,463 | INFO | 0790 | PASSED: Zero results
-2025-07-10 22:21:46,980 | INFO | 1525 | PASSED: short Trade Item Marketing Message
-2025-07-10 22:25:33,629 | INFO | 0058 | PASSED: Shipping Unit Indicator
-2025-07-10 22:25:44,630 | INFO | 0167 | PASSED: gpc Attribute Type Definition
-2025-07-10 22:26:16,545 | INFO | 0805 | PASSED: NO Tname and no Bname
-2025-07-10 22:26:38,237 | ERROR | 0805 | FAILED: Message: 
+2025-07-10 23:51:29,698 | INFO | 0001 | PASSED: Zero results
+2025-07-10 23:51:29,960 | INFO | 0002 | PASSED: Zero results
+2025-07-10 23:51:30,220 | INFO | 0003 | PASSED: Zero results
+2025-07-10 23:51:30,470 | INFO | 0004 | PASSED: Zero results
+2025-07-10 23:51:30,714 | INFO | 0005 | PASSED: Zero results
+2025-07-10 23:51:30,955 | INFO | 0006 | PASSED: Zero results
+2025-07-10 23:51:31,201 | INFO | 0007 | PASSED: Zero results
+2025-07-10 23:51:31,917 | INFO | 0008 | PASSED: Zero results
+2025-07-10 23:51:32,202 | INFO | 0009 | PASSED: Zero results
+2025-07-10 23:51:32,482 | INFO | 0010 | PASSED: Zero results
+2025-07-10 23:51:32,752 | INFO | 0011 | PASSED: Zero results
+2025-07-10 23:51:33,019 | INFO | 0012 | PASSED: Zero results
+2025-07-10 23:51:33,331 | INFO | 0013 | PASSED: Zero results
+2025-07-10 23:51:33,593 | INFO | 0014 | PASSED: Zero results
+2025-07-10 23:51:33,885 | INFO | 0015 | PASSED: Zero results
+2025-07-10 23:51:34,189 | INFO | 0016 | PASSED: Zero results
+2025-07-10 23:51:34,480 | INFO | 0017 | PASSED: Zero results
+2025-07-10 23:51:34,765 | INFO | 0018 | PASSED: Zero results
+2025-07-10 23:51:35,038 | INFO | 0019 | PASSED: Zero results
+2025-07-10 23:51:35,325 | INFO | 0020 | PASSED: Zero results
+2025-07-10 23:51:35,600 | INFO | 0021 | PASSED: Zero results
+2025-07-10 23:51:35,865 | INFO | 0022 | PASSED: Zero results
+2025-07-10 23:51:36,133 | INFO | 0023 | PASSED: Zero results
+2025-07-10 23:51:36,400 | INFO | 0024 | PASSED: Zero results
+2025-07-10 23:51:36,680 | INFO | 0025 | PASSED: Zero results
+2025-07-10 23:51:36,954 | INFO | 0026 | PASSED: Zero results
+2025-07-10 23:51:37,222 | INFO | 0027 | PASSED: Zero results
+2025-07-10 23:51:37,493 | INFO | 0028 | PASSED: Zero results
+2025-07-10 23:51:37,762 | INFO | 0029 | PASSED: Zero results
+2025-07-10 23:51:38,033 | INFO | 0030 | PASSED: Zero results
+2025-07-10 23:51:38,951 | INFO | 0031 | PASSED: Zero results
+2025-07-10 23:51:39,261 | INFO | 0032 | PASSED: Zero results
+2025-07-10 23:51:39,585 | INFO | 0033 | PASSED: Zero results
+2025-07-10 23:51:39,899 | INFO | 0034 | PASSED: Zero results
+2025-07-10 23:51:40,214 | INFO | 0035 | PASSED: Zero results
+2025-07-10 23:51:40,498 | INFO | 0036 | PASSED: Zero results
+2025-07-10 23:51:41,022 | INFO | 0037 | PASSED: Zero results
+2025-07-10 23:51:41,316 | INFO | 0038 | PASSED: Zero results
+2025-07-10 23:51:41,608 | INFO | 0039 | PASSED: Zero results
+2025-07-10 23:51:42,512 | INFO | 0040 | PASSED: Authorised Receiver of Product Information GLN (Global Location Number)
+2025-07-10 23:51:44,105 | INFO | 0041 | PASSED: Zero results
+2025-07-10 23:51:44,387 | INFO | 0042 | PASSED: Zero results
+2025-07-10 23:51:44,670 | INFO | 0043 | PASSED: Zero results
+2025-07-10 23:51:44,968 | INFO | 0044 | PASSED: Zero results
+2025-07-10 23:51:45,241 | INFO | 0045 | PASSED: Zero results
+2025-07-10 23:51:45,515 | INFO | 0046 | PASSED: Zero results
+2025-07-10 23:51:45,789 | INFO | 0047 | PASSED: Zero results
+2025-07-10 23:51:46,059 | INFO | 0048 | PASSED: Zero results
+2025-07-10 23:51:46,328 | INFO | 0049 | PASSED: Zero results
+2025-07-10 23:51:46,599 | INFO | 0050 | PASSED: Zero results
+2025-07-10 23:51:46,865 | INFO | 0051 | PASSED: Zero results
+2025-07-10 23:51:47,140 | INFO | 0052 | PASSED: Zero results
+2025-07-10 23:51:47,406 | INFO | 0053 | PASSED: Zero results
+2025-07-10 23:51:47,682 | INFO | 0054 | PASSED: Zero results
+2025-07-10 23:51:47,958 | INFO | 0055 | PASSED: Zero results
+2025-07-10 23:51:48,324 | INFO | 0056 | PASSED: Base Unit Indicator
+2025-07-10 23:51:50,102 | INFO | 0057 | PASSED: Consumer Unit Indicator
+2025-07-10 23:51:51,857 | INFO | 0058 | PASSED: Shipping Unit Indicator
+2025-07-10 23:51:53,525 | INFO | 0059 | PASSED: is Trade Item An Invoice Unit
+2025-07-10 23:51:55,233 | INFO | 0060 | PASSED: Orderable Unit Indicator
+2025-07-10 23:51:56,926 | INFO | 0061 | PASSED: is Trade Item A Service
+2025-07-10 23:51:58,464 | INFO | 0062 | PASSED: Zero results
+2025-07-10 23:51:58,747 | INFO | 0063 | PASSED: Zero results
+2025-07-10 23:51:59,205 | INFO | 0064 | PASSED: preliminary Item Status Code
+2025-07-10 23:52:00,894 | INFO | 0065 | PASSED: trade Item Trade Channel Code
+2025-07-10 23:52:02,548 | INFO | 0066 | PASSED: Product Hierarchy Level Code
+2025-07-10 23:52:04,182 | INFO | 0067 | PASSED: GTIN (Global Trade Item Number)
+2025-07-10 23:52:05,774 | INFO | 0068 | PASSED: Additional Product Identification
+2025-07-10 23:52:07,350 | INFO | 0069 | PASSED: Additional Product Identification Type Code
+2025-07-10 23:52:08,590 | INFO | 0070 | PASSED: Zero results
+2025-07-10 23:52:08,813 | INFO | 0071 | PASSED: Zero results
+2025-07-10 23:52:09,124 | INFO | 0072 | PASSED: additional Party Identification
+2025-07-10 23:52:10,626 | INFO | 0073 | PASSED: additional Party Identification Type Code
+2025-07-10 23:52:12,182 | INFO | 0074 | PASSED: Zero results
+2025-07-10 23:52:12,578 | INFO | 0075 | PASSED: Brand Owner GLN (Global Location Number)
+2025-07-10 23:52:14,241 | INFO | 0076 | PASSED: party Address
+2025-07-10 23:52:15,646 | INFO | 0077 | PASSED: Brand Owner Name
+2025-07-10 23:52:16,797 | INFO | 0078 | PASSED: Zero results
+2025-07-10 23:52:17,016 | INFO | 0079 | PASSED: Zero results
+2025-07-10 23:52:17,367 | INFO | 0080 | PASSED: additional Party Identification
+2025-07-10 23:52:18,601 | INFO | 0081 | PASSED: additional Party Identification Type Code
+2025-07-10 23:52:19,811 | INFO | 0082 | PASSED: Zero results
+2025-07-10 23:52:20,116 | INFO | 0083 | PASSED: Data Provider GLN (Global Location Number)
+2025-07-10 23:52:21,471 | INFO | 0084 | PASSED: Zero results
+2025-07-10 23:52:21,855 | INFO | 0085 | PASSED: Data Provider Name
+2025-07-10 23:52:23,400 | INFO | 0086 | PASSED: Zero results
+2025-07-10 23:52:23,711 | INFO | 0087 | PASSED: Zero results
+2025-07-10 23:52:24,016 | INFO | 0088 | PASSED: Zero results
+2025-07-10 23:52:24,315 | INFO | 0089 | PASSED: Zero results
+2025-07-10 23:52:24,630 | INFO | 0090 | PASSED: Zero results
+2025-07-10 23:52:25,015 | INFO | 0091 | PASSED: Manufacturing GLN (Global Location Number)
+2025-07-10 23:52:26,690 | INFO | 0092 | PASSED: party Address
+2025-07-10 23:52:28,261 | INFO | 0093 | PASSED: Manufacturer Name
+2025-07-10 23:52:29,809 | INFO | 0094 | PASSED: Zero results
+2025-07-10 23:52:30,088 | INFO | 0095 | PASSED: Zero results
+2025-07-10 23:52:30,366 | INFO | 0096 | PASSED: Zero results
+2025-07-10 23:52:30,639 | INFO | 0097 | PASSED: Zero results
+2025-07-10 23:52:30,903 | INFO | 0098 | PASSED: Zero results
+2025-07-10 23:52:31,167 | INFO | 0099 | PASSED: Zero results
+2025-07-10 23:52:31,436 | INFO | 0100 | PASSED: Zero results
+2025-07-10 23:52:31,841 | INFO | 0101 | PASSED: party Name
+2025-07-10 23:52:33,299 | INFO | 0102 | PASSED: Zero results
+2025-07-10 23:52:33,553 | INFO | 0103 | PASSED: Zero results
+2025-07-10 23:52:33,868 | INFO | 0104 | PASSED: Zero results
+2025-07-10 23:52:34,150 | INFO | 0105 | PASSED: Zero results
+2025-07-10 23:52:34,427 | INFO | 0106 | PASSED: Zero results
+2025-07-10 23:52:34,698 | INFO | 0107 | PASSED: Zero results
+2025-07-10 23:52:34,972 | INFO | 0108 | PASSED: Zero results
+2025-07-10 23:52:35,201 | INFO | 0109 | PASSED: Zero results
+2025-07-10 23:52:35,427 | INFO | 0110 | PASSED: Zero results
+2025-07-10 23:52:35,654 | INFO | 0111 | PASSED: Zero results
+2025-07-10 23:52:36,011 | INFO | 0112 | PASSED: Country Of Sale Code
+2025-07-10 23:52:37,505 | INFO | 0113 | PASSED: Zero results
+2025-07-10 23:52:37,800 | INFO | 0114 | PASSED: Zero results
+2025-07-10 23:52:38,166 | INFO | 0115 | PASSED: Referenced GTIN Type Code
+2025-07-10 23:52:39,800 | INFO | 0116 | PASSED: Referenced GTIN
+2025-07-10 23:52:41,554 | INFO | 0117 | PASSED: additional Trade Item Identification
+2025-07-10 23:52:43,194 | INFO | 0118 | PASSED: additional Trade Item Identification/@additional Trade Item Identification/@additional Trade Item Identification Type Code
+2025-07-10 23:52:44,574 | INFO | 0119 | PASSED: Zero results
+2025-07-10 23:52:44,773 | INFO | 0120 | PASSED: Zero results
+2025-07-10 23:52:45,070 | INFO | 0121 | PASSED: Contact Information Available Time
+2025-07-10 23:52:46,312 | INFO | 0122 | PASSED: Zero results
+2025-07-10 23:52:46,611 | INFO | 0123 | PASSED: Contact Address
+2025-07-10 23:52:47,798 | INFO | 0124 | PASSED: Zero results
+2025-07-10 23:52:48,028 | INFO | 0125 | PASSED: Zero results
+2025-07-10 23:52:48,334 | INFO | 0126 | PASSED: Contact
+2025-07-10 23:52:49,924 | INFO | 0127 | PASSED: Contact Type Code
+2025-07-10 23:52:51,537 | INFO | 0128 | PASSED: Contact Information GLN (Global Location Number)
+2025-07-10 23:52:52,928 | INFO | 0129 | PASSED: Zero results
+2025-07-10 23:52:53,168 | INFO | 0130 | PASSED: Zero results
+2025-07-10 23:52:53,396 | INFO | 0131 | PASSED: Zero results
+2025-07-10 23:52:53,630 | INFO | 0132 | PASSED: Zero results
+2025-07-10 23:52:53,876 | INFO | 0133 | PASSED: Zero results
+2025-07-10 23:52:54,231 | INFO | 0134 | PASSED: Contact Method Code
+2025-07-10 23:52:56,037 | INFO | 0135 | PASSED: Contact Details
+2025-07-10 23:52:57,605 | INFO | 0136 | PASSED: Zero results
+2025-07-10 23:52:57,917 | INFO | 0137 | PASSED: Zero results
+2025-07-10 23:52:58,213 | INFO | 0138 | PASSED: Zero results
+2025-07-10 23:52:58,511 | INFO | 0139 | PASSED: Zero results
+2025-07-10 23:52:58,791 | INFO | 0140 | PASSED: Zero results
+2025-07-10 23:52:59,195 | INFO | 0141 | PASSED: cancelled Date Time
+2025-07-10 23:53:00,665 | INFO | 0142 | PASSED: Zero results
+2025-07-10 23:53:01,085 | INFO | 0143 | PASSED: discontinued Date Time
+2025-07-10 23:53:02,697 | INFO | 0144 | PASSED: Product Information Effective Date/Time
+2025-07-10 23:53:04,439 | INFO | 0145 | PASSED: last Change Date Time
+2025-07-10 23:53:06,138 | INFO | 0146 | PASSED: publication Date Time
+2025-07-10 23:53:07,298 | INFO | 0147 | PASSED: Zero results
+2025-07-10 23:53:07,513 | INFO | 0148 | PASSED: Zero results
+2025-07-10 23:53:07,795 | INFO | 0149 | PASSED: Display Type Code
+2025-07-10 23:53:09,029 | INFO | 0150 | PASSED: has Display Ready Packaging
+2025-07-10 23:53:10,231 | INFO | 0151 | PASSED: Display Unit Indicator
+2025-07-10 23:53:11,359 | INFO | 0152 | PASSED: Zero results
+2025-07-10 23:53:11,581 | INFO | 0153 | PASSED: Zero results
+2025-07-10 23:53:11,767 | INFO | 0154 | PASSED: Zero results
+2025-07-10 23:53:11,971 | INFO | 0155 | PASSED: Zero results
+2025-07-10 23:53:12,171 | INFO | 0156 | PASSED: Zero results
+2025-07-10 23:53:12,429 | INFO | 0157 | PASSED: Zero results
+2025-07-10 23:53:12,660 | INFO | 0158 | PASSED: Zero results
+2025-07-10 23:53:12,913 | INFO | 0159 | PASSED: Zero results
+2025-07-10 23:53:13,180 | INFO | 0160 | PASSED: Zero results
+2025-07-10 23:53:13,538 | INFO | 0161 | PASSED: Global Product Category Code
+2025-07-10 23:53:15,168 | INFO | 0162 | PASSED: gpc Category Definition
+2025-07-10 23:53:16,893 | INFO | 0163 | PASSED: gpc Category Name
+2025-07-10 23:53:18,445 | INFO | 0164 | PASSED: Zero results
+2025-07-10 23:53:18,801 | INFO | 0165 | PASSED: Global Product Category Attribute Type Code
+2025-07-10 23:53:20,380 | INFO | 0166 | PASSED: Global Product Category Attribute Value Code
+2025-07-10 23:53:21,636 | INFO | 0167 | PASSED: gpc Attribute Type Definition
+2025-07-10 23:53:22,788 | INFO | 0168 | PASSED: Zero results
+2025-07-10 23:53:23,010 | INFO | 0169 | PASSED: Zero results
+2025-07-10 23:53:23,228 | INFO | 0170 | PASSED: Zero results
+2025-07-10 23:53:23,501 | INFO | 0171 | PASSED: Additional Product Classification Type Code
+2025-07-10 23:53:24,644 | INFO | 0172 | PASSED: Zero results
+2025-07-10 23:53:24,942 | INFO | 0173 | PASSED: Additional Product Classification Value
+2025-07-10 23:53:26,343 | INFO | 0174 | PASSED: additional Trade Item Classification Code Description
+2025-07-10 23:53:27,679 | INFO | 0175 | PASSED: Zero results
+2025-07-10 23:53:27,943 | INFO | 0176 | PASSED: Zero results
+2025-07-10 23:53:28,352 | INFO | 0177 | PASSED: additional Trade Item Classification Property Code
+2025-07-10 23:53:29,851 | INFO | 0178 | PASSED: Zero results
+2025-07-10 23:53:30,150 | INFO | 0179 | PASSED: Zero results
+2025-07-10 23:53:30,441 | INFO | 0180 | PASSED: Zero results
+2025-07-10 23:53:30,736 | INFO | 0181 | PASSED: Zero results
+2025-07-10 23:53:31,025 | INFO | 0182 | PASSED: Zero results
+2025-07-10 23:53:31,267 | INFO | 0183 | PASSED: Zero results
+2025-07-10 23:53:31,551 | INFO | 0184 | PASSED: Zero results
+2025-07-10 23:53:31,789 | INFO | 0185 | PASSED: Zero results
+2025-07-10 23:53:32,066 | INFO | 0186 | PASSED: Zero results
+2025-07-10 23:53:32,346 | INFO | 0187 | PASSED: Zero results
+2025-07-10 23:53:32,630 | INFO | 0188 | PASSED: Zero results
+2025-07-10 23:53:32,868 | INFO | 0189 | PASSED: Zero results
+2025-07-10 23:53:33,161 | INFO | 0190 | PASSED: Zero results
+2025-07-10 23:53:33,584 | INFO | 0191 | PASSED: property Description
+2025-07-10 23:53:35,067 | INFO | 0192 | PASSED: Zero results
+2025-07-10 23:53:35,331 | INFO | 0193 | PASSED: Zero results
+2025-07-10 23:53:35,575 | INFO | 0194 | PASSED: Zero results
+2025-07-10 23:53:35,999 | INFO | 0195 | PASSED: property Measurement
+2025-07-10 23:53:37,501 | INFO | 0196 | PASSED: Zero results
+2025-07-10 23:53:37,773 | INFO | 0197 | PASSED: Zero results
+2025-07-10 23:53:38,023 | INFO | 0198 | PASSED: Zero results
+2025-07-10 23:53:38,400 | INFO | 0199 | PASSED: Number of Different Products
+2025-07-10 23:53:39,920 | INFO | 0200 | PASSED: Zero results
+2025-07-10 23:53:40,297 | INFO | 0201 | PASSED: Zero results
+2025-07-10 23:53:40,672 | INFO | 0202 | PASSED: Count of Each Specific Product
+2025-07-10 23:53:42,290 | INFO | 0203 | PASSED: GTIN (Global Trade Item Number) of the Contained Product
+2025-07-10 23:53:43,933 | INFO | 0204 | PASSED: Animal Nutrient Code
+2025-07-10 23:53:45,604 | INFO | 0205 | PASSED: Animal Nutrient Target Percentage
+2025-07-10 23:53:47,251 | INFO | 0206 | PASSED: Animal Nutrient Maximum Percentage
+2025-07-10 23:53:48,985 | INFO | 0207 | PASSED: Animal Nutrient Minimum Percentage
+2025-07-10 23:53:50,638 | INFO | 0208 | PASSED: Animal Nutrient Quantity
+2025-07-10 23:53:52,147 | INFO | 0209 | PASSED: Zero results
+2025-07-10 23:53:52,403 | INFO | 0210 | PASSED: Zero results
+2025-07-10 23:53:52,690 | INFO | 0211 | PASSED: Zero results
+2025-07-10 23:53:52,992 | INFO | 0212 | PASSED: Zero results
+2025-07-10 23:53:53,235 | INFO | 0213 | PASSED: Zero results
+2025-07-10 23:53:53,517 | INFO | 0214 | PASSED: Zero results
+2025-07-10 23:53:53,804 | INFO | 0215 | PASSED: Zero results
+2025-07-10 23:53:54,081 | INFO | 0216 | PASSED: Zero results
+2025-07-10 23:53:54,378 | INFO | 0217 | PASSED: Zero results
+2025-07-10 23:53:54,664 | INFO | 0218 | PASSED: Zero results
+2025-07-10 23:53:54,952 | INFO | 0219 | PASSED: Zero results
+2025-07-10 23:53:55,229 | INFO | 0220 | PASSED: Zero results
+2025-07-10 23:53:55,531 | INFO | 0221 | PASSED: Zero results
+2025-07-10 23:53:55,833 | INFO | 0222 | PASSED: Zero results
+2025-07-10 23:53:56,121 | INFO | 0223 | PASSED: Zero results
+2025-07-10 23:53:56,395 | INFO | 0224 | PASSED: Zero results
+2025-07-10 23:53:56,682 | INFO | 0225 | PASSED: Zero results
+2025-07-10 23:53:56,980 | INFO | 0226 | PASSED: Zero results
+2025-07-10 23:53:57,273 | INFO | 0227 | PASSED: Zero results
+2025-07-10 23:53:57,557 | INFO | 0228 | PASSED: Zero results
+2025-07-10 23:53:57,836 | INFO | 0229 | PASSED: Zero results
+2025-07-10 23:53:58,105 | INFO | 0230 | PASSED: Zero results
+2025-07-10 23:53:58,392 | INFO | 0231 | PASSED: Zero results
+2025-07-10 23:53:58,668 | INFO | 0232 | PASSED: Zero results
+2025-07-10 23:53:58,966 | INFO | 0233 | PASSED: Zero results
+2025-07-10 23:53:59,273 | INFO | 0234 | PASSED: Zero results
+2025-07-10 23:53:59,576 | INFO | 0235 | PASSED: Zero results
+2025-07-10 23:53:59,828 | INFO | 0236 | PASSED: Zero results
+2025-07-10 23:54:00,112 | INFO | 0237 | PASSED: Zero results
+2025-07-10 23:54:00,434 | INFO | 0238 | PASSED: Zero results
+2025-07-10 23:54:00,745 | INFO | 0239 | PASSED: Zero results
+2025-07-10 23:54:01,025 | INFO | 0240 | PASSED: Zero results
+2025-07-10 23:54:01,294 | INFO | 0241 | PASSED: Zero results
+2025-07-10 23:54:01,579 | INFO | 0242 | PASSED: Zero results
+2025-07-10 23:54:01,814 | INFO | 0243 | PASSED: Zero results
+2025-07-10 23:54:02,097 | INFO | 0244 | PASSED: Zero results
+2025-07-10 23:54:02,375 | INFO | 0245 | PASSED: Zero results
+2025-07-10 23:54:02,689 | INFO | 0246 | PASSED: Zero results
+2025-07-10 23:54:02,947 | INFO | 0247 | PASSED: Zero results
+2025-07-10 23:54:03,237 | INFO | 0248 | PASSED: Zero results
+2025-07-10 23:54:03,525 | INFO | 0249 | PASSED: Zero results
+2025-07-10 23:54:03,768 | INFO | 0250 | PASSED: Zero results
+2025-07-10 23:54:04,073 | INFO | 0251 | PASSED: Zero results
+2025-07-10 23:54:04,328 | INFO | 0252 | PASSED: Zero results
+2025-07-10 23:54:04,579 | INFO | 0253 | PASSED: Zero results
+2025-07-10 23:54:04,833 | INFO | 0254 | PASSED: Zero results
+2025-07-10 23:54:05,083 | INFO | 0255 | PASSED: Zero results
+2025-07-10 23:54:05,491 | INFO | 0256 | PASSED: product Activity Type Code
+2025-07-10 23:54:07,024 | INFO | 0257 | PASSED: Zero results
+2025-07-10 23:54:07,352 | INFO | 0258 | PASSED: Zero results
+2025-07-10 23:54:07,648 | INFO | 0259 | PASSED: Zero results
+2025-07-10 23:54:07,942 | INFO | 0260 | PASSED: Zero results
+2025-07-10 23:54:08,226 | INFO | 0261 | PASSED: Zero results
+2025-07-10 23:54:08,505 | INFO | 0262 | PASSED: Zero results
+2025-07-10 23:54:08,776 | INFO | 0263 | PASSED: Zero results
+2025-07-10 23:54:09,035 | INFO | 0264 | PASSED: Zero results
+2025-07-10 23:54:09,291 | INFO | 0265 | PASSED: Zero results
+2025-07-10 23:54:09,679 | INFO | 0266 | PASSED: country Code
+2025-07-10 23:54:11,414 | INFO | 0267 | PASSED: country Subdivision Code
+2025-07-10 23:54:13,234 | INFO | 0268 | PASSED: nutritional Program Code
+2025-07-10 23:54:14,935 | INFO | 0269 | PASSED: Zero results
+2025-07-10 23:54:15,252 | INFO | 0270 | PASSED: Zero results
+2025-07-10 23:54:15,731 | INFO | 0271 | PASSED: nutritional Program Detail
+2025-07-10 23:54:17,363 | INFO | 0272 | PASSED: Zero results
+2025-07-10 23:54:17,774 | INFO | 0273 | PASSED: Sun Protection Factor (SPF)
+2025-07-10 23:54:19,501 | INFO | 0274 | PASSED: Zero results
+2025-07-10 23:54:19,816 | INFO | 0275 | PASSED: Zero results
+2025-07-10 23:54:20,098 | INFO | 0276 | PASSED: Zero results
+2025-07-10 23:54:20,359 | INFO | 0277 | PASSED: Zero results
+2025-07-10 23:54:20,682 | INFO | 0278 | PASSED: Zero results
+2025-07-10 23:54:21,036 | INFO | 0279 | PASSED: Zero results
+2025-07-10 23:54:21,375 | INFO | 0280 | PASSED: Zero results
+2025-07-10 23:54:21,685 | INFO | 0281 | PASSED: Zero results
+2025-07-10 23:54:22,042 | INFO | 0282 | PASSED: Zero results
+2025-07-10 23:54:22,363 | INFO | 0283 | PASSED: Zero results
+2025-07-10 23:54:22,672 | INFO | 0284 | PASSED: Zero results
+2025-07-10 23:54:22,953 | INFO | 0285 | PASSED: Zero results
+2025-07-10 23:54:23,252 | INFO | 0286 | PASSED: Zero results
+2025-07-10 23:54:23,559 | INFO | 0287 | PASSED: Zero results
+2025-07-10 23:54:23,836 | INFO | 0288 | PASSED: Zero results
+2025-07-10 23:54:24,065 | INFO | 0289 | PASSED: Zero results
+2025-07-10 23:54:24,333 | INFO | 0290 | PASSED: Zero results
+2025-07-10 23:54:24,608 | INFO | 0291 | PASSED: Zero results
+2025-07-10 23:54:24,881 | INFO | 0292 | PASSED: Zero results
+2025-07-10 23:54:25,371 | INFO | 0293 | PASSED: additional Trade Item Identification
+2025-07-10 23:54:27,092 | INFO | 0294 | PASSED: additional Trade Item Identification/@additional Trade Item Identification/@additional Trade Item Identification/@additional Trade Item Identification Type Code
+2025-07-10 23:54:28,746 | INFO | 0295 | PASSED: Zero results
+2025-07-10 23:54:29,011 | INFO | 0296 | PASSED: Zero results
+2025-07-10 23:54:29,314 | INFO | 0297 | PASSED: Zero results
+2025-07-10 23:54:29,604 | INFO | 0298 | PASSED: Zero results
+2025-07-10 23:54:29,885 | INFO | 0299 | PASSED: Zero results
+2025-07-10 23:54:30,162 | INFO | 0300 | PASSED: Zero results
+2025-07-10 23:54:30,447 | INFO | 0301 | PASSED: Zero results
+2025-07-10 23:54:30,719 | INFO | 0302 | PASSED: Zero results
+2025-07-10 23:54:31,002 | INFO | 0303 | PASSED: Zero results
+2025-07-10 23:54:31,280 | INFO | 0304 | PASSED: Zero results
+2025-07-10 23:54:31,556 | INFO | 0305 | PASSED: Zero results
+2025-07-10 23:54:31,838 | INFO | 0306 | PASSED: Zero results
+2025-07-10 23:54:32,158 | INFO | 0307 | PASSED: Zero results
+2025-07-10 23:54:32,451 | INFO | 0308 | PASSED: Zero results
+2025-07-10 23:54:32,736 | INFO | 0309 | PASSED: Zero results
+2025-07-10 23:54:33,017 | INFO | 0310 | PASSED: Zero results
+2025-07-10 23:54:33,298 | INFO | 0311 | PASSED: Zero results
+2025-07-10 23:54:33,581 | INFO | 0312 | PASSED: Zero results
+2025-07-10 23:54:33,860 | INFO | 0313 | PASSED: Zero results
+2025-07-10 23:54:34,147 | INFO | 0314 | PASSED: Zero results
+2025-07-10 23:54:34,442 | INFO | 0315 | PASSED: Zero results
+2025-07-10 23:54:34,865 | INFO | 0316 | PASSED: number Of Pieces In Set
+2025-07-10 23:54:36,516 | INFO | 0317 | PASSED: total Number Of Components
+2025-07-10 23:54:38,017 | INFO | 0318 | PASSED: Zero results
+2025-07-10 23:54:38,293 | INFO | 0319 | PASSED: Zero results
+2025-07-10 23:54:38,687 | INFO | 0320 | PASSED: component Description
+2025-07-10 23:54:40,287 | INFO | 0321 | PASSED: Zero results
+2025-07-10 23:54:40,536 | INFO | 0322 | PASSED: Zero results
+2025-07-10 23:54:40,821 | INFO | 0323 | PASSED: Zero results
+2025-07-10 23:54:41,224 | INFO | 0324 | PASSED: gpc Category Code
+2025-07-10 23:54:42,908 | INFO | 0325 | PASSED: component Identification
+2025-07-10 23:54:44,454 | INFO | 0326 | PASSED: Zero results
+2025-07-10 23:54:44,742 | INFO | 0327 | PASSED: Zero results
+2025-07-10 23:54:45,028 | INFO | 0328 | PASSED: Zero results
+2025-07-10 23:54:45,317 | INFO | 0329 | PASSED: Zero results
+2025-07-10 23:54:45,594 | INFO | 0330 | PASSED: Zero results
+2025-07-10 23:54:45,986 | INFO | 0331 | PASSED: component Quantity
+2025-07-10 23:54:47,479 | INFO | 0332 | PASSED: Zero results
+2025-07-10 23:54:47,801 | INFO | 0333 | PASSED: Zero results
+2025-07-10 23:54:48,072 | INFO | 0334 | PASSED: Zero results
+2025-07-10 23:54:48,308 | INFO | 0335 | PASSED: Zero results
+2025-07-10 23:54:48,589 | INFO | 0336 | PASSED: Zero results
+2025-07-10 23:54:48,878 | INFO | 0337 | PASSED: Zero results
+2025-07-10 23:54:49,192 | INFO | 0338 | PASSED: Zero results
+2025-07-10 23:54:49,512 | INFO | 0339 | PASSED: Zero results
+2025-07-10 23:54:49,802 | INFO | 0340 | PASSED: Zero results
+2025-07-10 23:54:50,038 | INFO | 0341 | PASSED: Zero results
+2025-07-10 23:54:50,275 | INFO | 0342 | PASSED: Zero results
+2025-07-10 23:54:50,507 | INFO | 0343 | PASSED: Zero results
+2025-07-10 23:54:50,772 | INFO | 0344 | PASSED: Zero results
+2025-07-10 23:54:51,040 | INFO | 0345 | PASSED: Zero results
+2025-07-10 23:54:51,266 | INFO | 0346 | PASSED: Zero results
+2025-07-10 23:54:51,532 | INFO | 0347 | PASSED: Zero results
+2025-07-10 23:54:51,793 | INFO | 0348 | PASSED: Zero results
+2025-07-10 23:54:52,181 | INFO | 0349 | PASSED: alcoholic Beverage Subregion
+2025-07-10 23:54:53,789 | INFO | 0350 | PASSED: Zero results
+2025-07-10 23:54:54,193 | INFO | 0351 | PASSED: degree Of Original Wort
+2025-07-10 23:54:55,820 | INFO | 0352 | PASSED: Alcohol Percentage
+2025-07-10 23:54:57,424 | INFO | 0353 | PASSED: vintner
+2025-07-10 23:54:58,917 | INFO | 0354 | PASSED: Zero results
+2025-07-10 23:54:59,332 | INFO | 0355 | PASSED: alcoholic Beverage Sugar Content
+2025-07-10 23:55:00,847 | INFO | 0356 | PASSED: Zero results
+2025-07-10 23:55:01,235 | INFO | 0357 | PASSED: Vintage
+2025-07-10 23:55:02,748 | INFO | 0358 | PASSED: Zero results
+2025-07-10 23:55:02,991 | INFO | 0359 | PASSED: Zero results
+2025-07-10 23:55:03,258 | INFO | 0360 | PASSED: Zero results
+2025-07-10 23:55:03,533 | INFO | 0361 | PASSED: Zero results
+2025-07-10 23:55:03,806 | INFO | 0362 | PASSED: Zero results
+2025-07-10 23:55:04,073 | INFO | 0363 | PASSED: Zero results
+2025-07-10 23:55:04,347 | INFO | 0364 | PASSED: Zero results
+2025-07-10 23:55:04,616 | INFO | 0365 | PASSED: Zero results
+2025-07-10 23:55:04,893 | INFO | 0366 | PASSED: Zero results
+2025-07-10 23:55:05,181 | INFO | 0367 | PASSED: Zero results
+2025-07-10 23:55:05,583 | INFO | 0368 | PASSED: allergen Specification Agency
+2025-07-10 23:55:07,397 | INFO | 0369 | PASSED: allergen Specification Name
+2025-07-10 23:55:09,550 | INFO | 0370 | PASSED: Allergen Statement
+2025-07-10 23:55:11,052 | INFO | 0371 | PASSED: Zero results
+2025-07-10 23:55:11,306 | INFO | 0372 | PASSED: Zero results
+2025-07-10 23:55:11,626 | INFO | 0373 | PASSED: Allergen Declarations Indicator
+2025-07-10 23:55:13,127 | INFO | 0374 | PASSED: Zero results
+2025-07-10 23:55:13,440 | INFO | 0375 | PASSED: Allergen Type Code
+2025-07-10 23:55:15,114 | INFO | 0376 | PASSED: Allergen Containment Code
+2025-07-10 23:55:16,259 | INFO | 0377 | PASSED: Zero results
+2025-07-10 23:55:16,482 | INFO | 0378 | PASSED: Zero results
+2025-07-10 23:55:16,732 | INFO | 0379 | PASSED: Zero results
+2025-07-10 23:55:16,976 | INFO | 0380 | PASSED: Zero results
+2025-07-10 23:55:17,165 | INFO | 0381 | PASSED: Zero results
+2025-07-10 23:55:17,376 | INFO | 0382 | PASSED: Zero results
+2025-07-10 23:55:17,589 | INFO | 0383 | PASSED: Zero results
+2025-07-10 23:55:17,762 | INFO | 0384 | PASSED: Zero results
+2025-07-10 23:55:17,991 | INFO | 0385 | PASSED: Zero results
+2025-07-10 23:55:18,283 | INFO | 0386 | PASSED: Nutritional/Health Claim Description
+2025-07-10 23:55:19,413 | INFO | 0387 | PASSED: Zero results
+2025-07-10 23:55:19,705 | INFO | 0388 | PASSED: Pet Food or Animal Feed Type Code
+2025-07-10 23:55:20,960 | INFO | 0389 | PASSED: Animal Feed Designed For Code
+2025-07-10 23:55:22,122 | INFO | 0390 | PASSED: Zero results
+2025-07-10 23:55:22,349 | INFO | 0391 | PASSED: Zero results
+2025-07-10 23:55:22,580 | INFO | 0392 | PASSED: Zero results
+2025-07-10 23:55:22,803 | INFO | 0393 | PASSED: Zero results
+2025-07-10 23:55:22,986 | INFO | 0394 | PASSED: Zero results
+2025-07-10 23:55:23,169 | INFO | 0395 | PASSED: Zero results
+2025-07-10 23:55:23,411 | INFO | 0396 | PASSED: Zero results
+2025-07-10 23:55:23,707 | INFO | 0397 | PASSED: Zero results
+2025-07-10 23:55:24,002 | INFO | 0398 | PASSED: Zero results
+2025-07-10 23:55:24,380 | INFO | 0399 | PASSED: Animal Feed Target Life Stage
+2025-07-10 23:55:25,901 | INFO | 0400 | PASSED: Zero results
+2025-07-10 23:55:26,272 | INFO | 0401 | PASSED: Maximum Weight Of Animal Being Fed
+2025-07-10 23:55:27,790 | INFO | 0402 | PASSED: Zero results
+2025-07-10 23:55:28,158 | INFO | 0403 | PASSED: Minimum Weight Of Animal Being Fed
+2025-07-10 23:55:29,740 | INFO | 0404 | PASSED: Zero results
+2025-07-10 23:55:30,010 | INFO | 0405 | PASSED: Zero results
+2025-07-10 23:55:30,307 | INFO | 0406 | PASSED: Zero results
+2025-07-10 23:55:30,598 | INFO | 0407 | PASSED: Zero results
+2025-07-10 23:55:30,845 | INFO | 0408 | PASSED: Zero results
+2025-07-10 23:55:31,147 | INFO | 0409 | PASSED: Zero results
+2025-07-10 23:55:31,436 | INFO | 0410 | PASSED: Zero results
+2025-07-10 23:55:31,702 | INFO | 0411 | PASSED: Zero results
+2025-07-10 23:55:31,999 | INFO | 0412 | PASSED: Zero results
+2025-07-10 23:55:32,247 | INFO | 0413 | PASSED: Zero results
+2025-07-10 23:55:32,670 | INFO | 0414 | PASSED: animal Nutrient Quantity Contained Basis
+2025-07-10 23:55:34,215 | INFO | 0415 | PASSED: Zero results
+2025-07-10 23:55:34,623 | INFO | 0416 | PASSED: Feeding Amount
+2025-07-10 23:55:35,965 | INFO | 0417 | PASSED: Zero results
+2025-07-10 23:55:36,310 | INFO | 0418 | PASSED: feeding Amount Basis Description
+2025-07-10 23:55:37,740 | INFO | 0419 | PASSED: Zero results
+2025-07-10 23:55:38,068 | INFO | 0420 | PASSED: Maximum Feeding Amount
+2025-07-10 23:55:39,427 | INFO | 0421 | PASSED: Zero results
+2025-07-10 23:55:39,735 | INFO | 0422 | PASSED: Minimum Feeding Amount
+2025-07-10 23:55:40,980 | INFO | 0423 | PASSED: Zero results
+2025-07-10 23:55:41,295 | INFO | 0424 | PASSED: Feeding Frequency
+2025-07-10 23:55:42,447 | INFO | 0425 | PASSED: Zero results
+2025-07-10 23:55:42,661 | INFO | 0426 | PASSED: Zero results
+2025-07-10 23:55:42,866 | INFO | 0427 | PASSED: Zero results
+2025-07-10 23:55:43,068 | INFO | 0428 | PASSED: Zero results
+2025-07-10 23:55:43,266 | INFO | 0429 | PASSED: Zero results
+2025-07-10 23:55:43,430 | INFO | 0430 | PASSED: Zero results
+2025-07-10 23:55:43,596 | INFO | 0431 | PASSED: Zero results
+2025-07-10 23:55:43,770 | INFO | 0432 | PASSED: Zero results
+2025-07-10 23:55:43,955 | INFO | 0433 | PASSED: Zero results
+2025-07-10 23:55:44,161 | INFO | 0434 | PASSED: Zero results
+2025-07-10 23:55:44,347 | INFO | 0435 | PASSED: Zero results
+2025-07-10 23:55:44,539 | INFO | 0436 | PASSED: Zero results
+2025-07-10 23:55:44,715 | INFO | 0437 | PASSED: Zero results
+2025-07-10 23:55:44,914 | INFO | 0438 | PASSED: Zero results
+2025-07-10 23:55:45,097 | INFO | 0439 | PASSED: Zero results
+2025-07-10 23:55:45,297 | INFO | 0440 | PASSED: Zero results
+2025-07-10 23:55:45,502 | INFO | 0441 | PASSED: Zero results
+2025-07-10 23:55:45,707 | INFO | 0442 | PASSED: Zero results
+2025-07-10 23:55:45,931 | INFO | 0443 | PASSED: Zero results
+2025-07-10 23:55:46,159 | INFO | 0444 | PASSED: Zero results
+2025-07-10 23:55:46,403 | INFO | 0445 | PASSED: Zero results
+2025-07-10 23:55:46,610 | INFO | 0446 | PASSED: Zero results
+2025-07-10 23:55:46,804 | INFO | 0447 | PASSED: Zero results
+2025-07-10 23:55:47,117 | INFO | 0448 | PASSED: Zero results
+2025-07-10 23:55:47,313 | INFO | 0449 | PASSED: Zero results
+2025-07-10 23:55:47,506 | INFO | 0450 | PASSED: Zero results
+2025-07-10 23:55:47,682 | INFO | 0451 | PASSED: Zero results
+2025-07-10 23:55:47,856 | INFO | 0452 | PASSED: Zero results
+2025-07-10 23:55:48,050 | INFO | 0453 | PASSED: Zero results
+2025-07-10 23:55:48,314 | INFO | 0454 | PASSED: Zero results
+2025-07-10 23:55:48,608 | INFO | 0455 | PASSED: Zero results
+2025-07-10 23:55:48,843 | INFO | 0456 | PASSED: Zero results
+2025-07-10 23:55:49,126 | INFO | 0457 | PASSED: Zero results
+2025-07-10 23:55:49,363 | INFO | 0458 | PASSED: Zero results
+2025-07-10 23:55:49,646 | INFO | 0459 | PASSED: Zero results
+2025-07-10 23:55:49,888 | INFO | 0460 | PASSED: Zero results
+2025-07-10 23:55:50,127 | INFO | 0461 | PASSED: Zero results
+2025-07-10 23:55:50,373 | INFO | 0462 | PASSED: Zero results
+2025-07-10 23:55:50,640 | INFO | 0463 | PASSED: Zero results
+2025-07-10 23:55:50,901 | INFO | 0464 | PASSED: Zero results
+2025-07-10 23:55:51,156 | INFO | 0465 | PASSED: Zero results
+2025-07-10 23:55:51,401 | INFO | 0466 | PASSED: Zero results
+2025-07-10 23:55:51,639 | INFO | 0467 | PASSED: Zero results
+2025-07-10 23:55:51,882 | INFO | 0468 | PASSED: Zero results
+2025-07-10 23:55:52,120 | INFO | 0469 | PASSED: Zero results
+2025-07-10 23:55:52,397 | INFO | 0470 | PASSED: Zero results
+2025-07-10 23:55:52,708 | INFO | 0471 | PASSED: Zero results
+2025-07-10 23:55:52,979 | INFO | 0472 | PASSED: Zero results
+2025-07-10 23:55:53,373 | INFO | 0473 | PASSED: Zero results
+2025-07-10 23:55:53,663 | INFO | 0474 | PASSED: Zero results
+2025-07-10 23:55:53,962 | INFO | 0475 | PASSED: Zero results
+2025-07-10 23:55:54,262 | INFO | 0476 | PASSED: Zero results
+2025-07-10 23:55:54,541 | INFO | 0477 | PASSED: Zero results
+2025-07-10 23:55:54,807 | INFO | 0478 | PASSED: Zero results
+2025-07-10 23:55:55,073 | INFO | 0479 | PASSED: Zero results
+2025-07-10 23:55:55,364 | INFO | 0480 | PASSED: Zero results
+2025-07-10 23:55:55,635 | INFO | 0481 | PASSED: Zero results
+2025-07-10 23:55:55,895 | INFO | 0482 | PASSED: Zero results
+2025-07-10 23:55:56,165 | INFO | 0483 | PASSED: Zero results
+2025-07-10 23:55:56,416 | INFO | 0484 | PASSED: Zero results
+2025-07-10 23:55:56,659 | INFO | 0485 | PASSED: Zero results
+2025-07-10 23:55:56,920 | INFO | 0486 | PASSED: Zero results
+2025-07-10 23:55:57,112 | INFO | 0487 | PASSED: Zero results
+2025-07-10 23:55:57,309 | INFO | 0488 | PASSED: Zero results
+2025-07-10 23:55:57,511 | INFO | 0489 | PASSED: Zero results
+2025-07-10 23:55:57,731 | INFO | 0490 | PASSED: Zero results
+2025-07-10 23:55:57,976 | INFO | 0491 | PASSED: Zero results
+2025-07-10 23:55:58,227 | INFO | 0492 | PASSED: Zero results
+2025-07-10 23:55:58,465 | INFO | 0493 | PASSED: Zero results
+2025-07-10 23:55:58,706 | INFO | 0494 | PASSED: Zero results
+2025-07-10 23:55:58,915 | INFO | 0495 | PASSED: Zero results
+2025-07-10 23:55:59,149 | INFO | 0496 | PASSED: Zero results
+2025-07-10 23:55:59,341 | INFO | 0497 | PASSED: Zero results
+2025-07-10 23:55:59,553 | INFO | 0498 | PASSED: Zero results
+2025-07-10 23:55:59,733 | INFO | 0499 | PASSED: Zero results
+2025-07-10 23:55:59,948 | INFO | 0500 | PASSED: Zero results
+2025-07-10 23:56:00,140 | INFO | 0501 | PASSED: Zero results
+2025-07-10 23:56:00,335 | INFO | 0502 | PASSED: Zero results
+2025-07-10 23:56:00,549 | INFO | 0503 | PASSED: Zero results
+2025-07-10 23:56:00,836 | INFO | 0504 | PASSED: Zero results
+2025-07-10 23:56:01,074 | INFO | 0505 | PASSED: Zero results
+2025-07-10 23:56:01,353 | INFO | 0506 | PASSED: Zero results
+2025-07-10 23:56:01,593 | INFO | 0507 | PASSED: Zero results
+2025-07-10 23:56:01,870 | INFO | 0508 | PASSED: Zero results
+2025-07-10 23:56:02,108 | INFO | 0509 | PASSED: Zero results
+2025-07-10 23:56:02,396 | INFO | 0510 | PASSED: Zero results
+2025-07-10 23:56:02,696 | INFO | 0511 | PASSED: Zero results
+2025-07-10 23:56:02,998 | INFO | 0512 | PASSED: Zero results
+2025-07-10 23:56:03,243 | INFO | 0513 | PASSED: Zero results
+2025-07-10 23:56:03,551 | INFO | 0514 | PASSED: Zero results
+2025-07-10 23:56:03,843 | INFO | 0515 | PASSED: Zero results
+2025-07-10 23:56:04,137 | INFO | 0516 | PASSED: Zero results
+2025-07-10 23:56:04,453 | INFO | 0517 | PASSED: Zero results
+2025-07-10 23:56:04,703 | INFO | 0518 | PASSED: Zero results
+2025-07-10 23:56:04,951 | INFO | 0519 | PASSED: Zero results
+2025-07-10 23:56:05,226 | INFO | 0520 | PASSED: Zero results
+2025-07-10 23:56:05,459 | INFO | 0521 | PASSED: Zero results
+2025-07-10 23:56:05,731 | INFO | 0522 | PASSED: Zero results
+2025-07-10 23:56:06,002 | INFO | 0523 | PASSED: Zero results
+2025-07-10 23:56:06,287 | INFO | 0524 | PASSED: Zero results
+2025-07-10 23:56:06,624 | INFO | 0525 | PASSED: Zero results
+2025-07-10 23:56:06,912 | INFO | 0526 | PASSED: Zero results
+2025-07-10 23:56:07,168 | INFO | 0527 | PASSED: Zero results
+2025-07-10 23:56:07,454 | INFO | 0528 | PASSED: Zero results
+2025-07-10 23:56:07,737 | INFO | 0529 | PASSED: Zero results
+2025-07-10 23:56:08,012 | INFO | 0530 | PASSED: Zero results
+2025-07-10 23:56:08,291 | INFO | 0531 | PASSED: Zero results
+2025-07-10 23:56:08,528 | INFO | 0532 | PASSED: Zero results
+2025-07-10 23:56:08,760 | INFO | 0533 | PASSED: Zero results
+2025-07-10 23:56:09,000 | INFO | 0534 | PASSED: Zero results
+2025-07-10 23:56:09,273 | INFO | 0535 | PASSED: Zero results
+2025-07-10 23:56:09,539 | INFO | 0536 | PASSED: Zero results
+2025-07-10 23:56:09,784 | INFO | 0537 | PASSED: Zero results
+2025-07-10 23:56:10,020 | INFO | 0538 | PASSED: Zero results
+2025-07-10 23:56:10,253 | INFO | 0539 | PASSED: Zero results
+2025-07-10 23:56:10,489 | INFO | 0540 | PASSED: Zero results
+2025-07-10 23:56:10,760 | INFO | 0541 | PASSED: Zero results
+2025-07-10 23:56:11,023 | INFO | 0542 | PASSED: Zero results
+2025-07-10 23:56:11,260 | INFO | 0543 | PASSED: Zero results
+2025-07-10 23:56:11,491 | INFO | 0544 | PASSED: Zero results
+2025-07-10 23:56:11,721 | INFO | 0545 | PASSED: Zero results
+2025-07-10 23:56:11,997 | INFO | 0546 | PASSED: Zero results
+2025-07-10 23:56:12,266 | INFO | 0547 | PASSED: Zero results
+2025-07-10 23:56:12,552 | INFO | 0548 | PASSED: Zero results
+2025-07-10 23:56:12,831 | INFO | 0549 | PASSED: Zero results
+2025-07-10 23:56:13,113 | INFO | 0550 | PASSED: Zero results
+2025-07-10 23:56:13,451 | INFO | 0551 | PASSED: Zero results
+2025-07-10 23:56:13,859 | INFO | 0552 | PASSED: Zero results
+2025-07-10 23:56:14,141 | INFO | 0553 | PASSED: Zero results
+2025-07-10 23:56:14,412 | INFO | 0554 | PASSED: Zero results
+2025-07-10 23:56:14,637 | INFO | 0555 | PASSED: Zero results
+2025-07-10 23:56:14,897 | INFO | 0556 | PASSED: Zero results
+2025-07-10 23:56:15,121 | INFO | 0557 | PASSED: Zero results
+2025-07-10 23:56:15,407 | INFO | 0558 | PASSED: Zero results
+2025-07-10 23:56:15,636 | INFO | 0559 | PASSED: Zero results
+2025-07-10 23:56:15,920 | INFO | 0560 | PASSED: Zero results
+2025-07-10 23:56:16,190 | INFO | 0561 | PASSED: Zero results
+2025-07-10 23:56:16,420 | INFO | 0562 | PASSED: Zero results
+2025-07-10 23:56:16,644 | INFO | 0563 | PASSED: Zero results
+2025-07-10 23:56:16,867 | INFO | 0564 | PASSED: Zero results
+2025-07-10 23:56:17,140 | INFO | 0565 | PASSED: Zero results
+2025-07-10 23:56:17,372 | INFO | 0566 | PASSED: Zero results
+2025-07-10 23:56:17,604 | INFO | 0567 | PASSED: Zero results
+2025-07-10 23:56:17,825 | INFO | 0568 | PASSED: Zero results
+2025-07-10 23:56:18,093 | INFO | 0569 | PASSED: Zero results
+2025-07-10 23:56:18,361 | INFO | 0570 | PASSED: Zero results
+2025-07-10 23:56:18,592 | INFO | 0571 | PASSED: Zero results
+2025-07-10 23:56:18,860 | INFO | 0572 | PASSED: Zero results
+2025-07-10 23:56:19,088 | INFO | 0573 | PASSED: Zero results
+2025-07-10 23:56:19,349 | INFO | 0574 | PASSED: Zero results
+2025-07-10 23:56:19,573 | INFO | 0575 | PASSED: Zero results
+2025-07-10 23:56:19,836 | INFO | 0576 | PASSED: Zero results
+2025-07-10 23:56:20,108 | INFO | 0577 | PASSED: Zero results
+2025-07-10 23:56:20,341 | INFO | 0578 | PASSED: Zero results
+2025-07-10 23:56:20,570 | INFO | 0579 | PASSED: Zero results
+2025-07-10 23:56:20,809 | INFO | 0580 | PASSED: Zero results
+2025-07-10 23:56:21,044 | INFO | 0581 | PASSED: Zero results
+2025-07-10 23:56:21,278 | INFO | 0582 | PASSED: Zero results
+2025-07-10 23:56:21,546 | INFO | 0583 | PASSED: Zero results
+2025-07-10 23:56:21,840 | INFO | 0584 | PASSED: Zero results
+2025-07-10 23:56:22,118 | INFO | 0585 | PASSED: Zero results
+2025-07-10 23:56:22,344 | INFO | 0586 | PASSED: Zero results
+2025-07-10 23:56:22,616 | INFO | 0587 | PASSED: Zero results
+2025-07-10 23:56:22,890 | INFO | 0588 | PASSED: Zero results
+2025-07-10 23:56:23,168 | INFO | 0589 | PASSED: Zero results
+2025-07-10 23:56:23,437 | INFO | 0590 | PASSED: Zero results
+2025-07-10 23:56:23,711 | INFO | 0591 | PASSED: Zero results
+2025-07-10 23:56:23,971 | INFO | 0592 | PASSED: Zero results
+2025-07-10 23:56:24,240 | INFO | 0593 | PASSED: Zero results
+2025-07-10 23:56:24,473 | INFO | 0594 | PASSED: Zero results
+2025-07-10 23:56:24,709 | INFO | 0595 | PASSED: Zero results
+2025-07-10 23:56:24,993 | INFO | 0596 | PASSED: Zero results
+2025-07-10 23:56:25,260 | INFO | 0597 | PASSED: Zero results
+2025-07-10 23:56:25,493 | INFO | 0598 | PASSED: Zero results
+2025-07-10 23:56:25,728 | INFO | 0599 | PASSED: Zero results
+2025-07-10 23:56:26,096 | INFO | 0600 | PASSED: Batteries Included Indicator
+2025-07-10 23:56:27,787 | INFO | 0601 | PASSED: Batteries Required Indicator
+2025-07-10 23:56:29,254 | INFO | 0602 | PASSED: Zero results
+2025-07-10 23:56:29,530 | INFO | 0603 | PASSED: Zero results
+2025-07-10 23:56:29,821 | INFO | 0604 | PASSED: Zero results
+2025-07-10 23:56:30,052 | INFO | 0605 | PASSED: Zero results
+2025-07-10 23:56:30,324 | INFO | 0606 | PASSED: Zero results
+2025-07-10 23:56:30,594 | INFO | 0607 | PASSED: Zero results
+2025-07-10 23:56:30,822 | INFO | 0608 | PASSED: Zero results
+2025-07-10 23:56:31,112 | INFO | 0609 | PASSED: Zero results
+2025-07-10 23:56:31,459 | INFO | 0610 | PASSED: Zero results
+2025-07-10 23:56:31,765 | INFO | 0611 | PASSED: Zero results
+2025-07-10 23:56:32,141 | INFO | 0612 | PASSED: Batteries Built In Indicator
+2025-07-10 23:56:33,751 | INFO | 0613 | PASSED: Battery Material Type Code
+2025-07-10 23:56:35,367 | INFO | 0614 | PASSED: Battery Size Type Code
+2025-07-10 23:56:36,979 | INFO | 0615 | PASSED: Battery Weight
+2025-07-10 23:56:38,485 | INFO | 0616 | PASSED: Zero results
+2025-07-10 23:56:38,853 | INFO | 0617 | PASSED: Number of Batteries Built In
+2025-07-10 23:56:40,473 | INFO | 0618 | PASSED: Number of Batteries Required
+2025-07-10 23:56:41,986 | INFO | 0619 | PASSED: Zero results
+2025-07-10 23:56:42,270 | INFO | 0620 | PASSED: Zero results
+2025-07-10 23:56:42,532 | INFO | 0621 | PASSED: Zero results
+2025-07-10 23:56:42,790 | INFO | 0622 | PASSED: Zero results
+2025-07-10 23:56:43,050 | INFO | 0623 | PASSED: Zero results
+2025-07-10 23:56:43,311 | INFO | 0624 | PASSED: Zero results
+2025-07-10 23:56:43,537 | INFO | 0625 | PASSED: Zero results
+2025-07-10 23:56:43,809 | INFO | 0626 | PASSED: Zero results
+2025-07-10 23:56:44,079 | INFO | 0627 | PASSED: Zero results
+2025-07-10 23:56:44,338 | INFO | 0628 | PASSED: Zero results
+2025-07-10 23:56:44,654 | INFO | 0629 | PASSED: Zero results
+2025-07-10 23:56:44,930 | INFO | 0630 | PASSED: Zero results
+2025-07-10 23:56:45,207 | INFO | 0631 | PASSED: Zero results
+2025-07-10 23:56:45,484 | INFO | 0632 | PASSED: Zero results
+2025-07-10 23:56:45,710 | INFO | 0633 | PASSED: Zero results
+2025-07-10 23:56:45,934 | INFO | 0634 | PASSED: Zero results
+2025-07-10 23:56:46,199 | INFO | 0635 | PASSED: Zero results
+2025-07-10 23:56:46,421 | INFO | 0636 | PASSED: Zero results
+2025-07-10 23:56:46,645 | INFO | 0637 | PASSED: Zero results
+2025-07-10 23:56:46,879 | INFO | 0638 | PASSED: Zero results
+2025-07-10 23:56:47,114 | INFO | 0639 | PASSED: Zero results
+2025-07-10 23:56:47,335 | INFO | 0640 | PASSED: Zero results
+2025-07-10 23:56:47,557 | INFO | 0641 | PASSED: Zero results
+2025-07-10 23:56:47,787 | INFO | 0642 | PASSED: Zero results
+2025-07-10 23:56:48,020 | INFO | 0643 | PASSED: Zero results
+2025-07-10 23:56:48,253 | INFO | 0644 | PASSED: Zero results
+2025-07-10 23:56:48,489 | INFO | 0645 | PASSED: Zero results
+2025-07-10 23:56:48,711 | INFO | 0646 | PASSED: Zero results
+2025-07-10 23:56:48,944 | INFO | 0647 | PASSED: Zero results
+2025-07-10 23:56:49,179 | INFO | 0648 | PASSED: Zero results
+2025-07-10 23:56:49,414 | INFO | 0649 | PASSED: Zero results
+2025-07-10 23:56:49,648 | INFO | 0650 | PASSED: Zero results
+2025-07-10 23:56:49,876 | INFO | 0651 | PASSED: Zero results
+2025-07-10 23:56:50,137 | INFO | 0652 | PASSED: Zero results
+2025-07-10 23:56:50,365 | INFO | 0653 | PASSED: Zero results
+2025-07-10 23:56:50,639 | INFO | 0654 | PASSED: Zero results
+2025-07-10 23:56:50,909 | INFO | 0655 | PASSED: Zero results
+2025-07-10 23:56:51,176 | INFO | 0656 | PASSED: Zero results
+2025-07-10 23:56:51,443 | INFO | 0657 | PASSED: Zero results
+2025-07-10 23:56:51,726 | INFO | 0658 | PASSED: Zero results
+2025-07-10 23:56:52,027 | INFO | 0659 | PASSED: Zero results
+2025-07-10 23:56:52,298 | INFO | 0660 | PASSED: Zero results
+2025-07-10 23:56:52,571 | INFO | 0661 | PASSED: Zero results
+2025-07-10 23:56:52,846 | INFO | 0662 | PASSED: Zero results
+2025-07-10 23:56:53,084 | INFO | 0663 | PASSED: Zero results
+2025-07-10 23:56:53,349 | INFO | 0664 | PASSED: Zero results
+2025-07-10 23:56:53,756 | INFO | 0665 | PASSED: certification Agency
+2025-07-10 23:56:55,291 | INFO | 0666 | PASSED: Zero results
+2025-07-10 23:56:55,688 | INFO | 0667 | PASSED: Certification Standard
+2025-07-10 23:56:57,204 | INFO | 0668 | PASSED: Zero results
+2025-07-10 23:56:57,450 | INFO | 0669 | PASSED: Zero results
+2025-07-10 23:56:57,720 | INFO | 0670 | PASSED: Zero results
+2025-07-10 23:56:57,990 | INFO | 0671 | PASSED: Zero results
+2025-07-10 23:56:58,216 | INFO | 0672 | PASSED: Zero results
+2025-07-10 23:56:58,448 | INFO | 0673 | PASSED: Zero results
+2025-07-10 23:56:58,713 | INFO | 0674 | PASSED: Zero results
+2025-07-10 23:56:58,977 | INFO | 0675 | PASSED: Zero results
+2025-07-10 23:56:59,217 | INFO | 0676 | PASSED: Zero results
+2025-07-10 23:56:59,450 | INFO | 0677 | PASSED: Zero results
+2025-07-10 23:56:59,729 | INFO | 0678 | PASSED: Zero results
+2025-07-10 23:56:59,964 | INFO | 0679 | PASSED: Zero results
+2025-07-10 23:57:00,361 | INFO | 0680 | PASSED: certificate Issuance Date Time
+2025-07-10 23:57:01,993 | INFO | 0681 | PASSED: certification Assessment Date Time
+2025-07-10 23:57:03,852 | INFO | 0682 | PASSED: certification Effective End Date Time
+2025-07-10 23:57:05,314 | INFO | 0683 | PASSED: Zero results
+2025-07-10 23:57:05,554 | INFO | 0684 | PASSED: Zero results
+2025-07-10 23:57:05,925 | INFO | 0685 | PASSED: Certification Value
+2025-07-10 23:57:07,362 | INFO | 0686 | PASSED: Zero results
+2025-07-10 23:57:07,603 | INFO | 0687 | PASSED: Zero results
+2025-07-10 23:57:07,835 | INFO | 0688 | PASSED: Zero results
+2025-07-10 23:57:08,064 | INFO | 0689 | PASSED: Zero results
+2025-07-10 23:57:08,292 | INFO | 0690 | PASSED: Zero results
+2025-07-10 23:57:08,520 | INFO | 0691 | PASSED: Zero results
+2025-07-10 23:57:08,792 | INFO | 0692 | PASSED: Zero results
+2025-07-10 23:57:09,019 | INFO | 0693 | PASSED: Zero results
+2025-07-10 23:57:09,290 | INFO | 0694 | PASSED: Zero results
+2025-07-10 23:57:09,519 | INFO | 0695 | PASSED: Zero results
+2025-07-10 23:57:09,747 | INFO | 0696 | PASSED: Zero results
+2025-07-10 23:57:10,034 | INFO | 0697 | PASSED: Zero results
+2025-07-10 23:57:10,268 | INFO | 0698 | PASSED: Zero results
+2025-07-10 23:57:10,546 | INFO | 0699 | PASSED: Zero results
+2025-07-10 23:57:10,783 | INFO | 0700 | PASSED: Zero results
+2025-07-10 23:57:11,016 | INFO | 0701 | PASSED: Zero results
+2025-07-10 23:57:11,259 | INFO | 0702 | PASSED: Zero results
+2025-07-10 23:57:11,529 | INFO | 0703 | PASSED: Zero results
+2025-07-10 23:57:11,794 | INFO | 0704 | PASSED: Zero results
+2025-07-10 23:57:12,056 | INFO | 0705 | PASSED: Zero results
+2025-07-10 23:57:12,284 | INFO | 0706 | PASSED: Zero results
+2025-07-10 23:57:12,541 | INFO | 0707 | PASSED: Zero results
+2025-07-10 23:57:12,762 | INFO | 0708 | PASSED: Zero results
+2025-07-10 23:57:13,030 | INFO | 0709 | PASSED: Zero results
+2025-07-10 23:57:13,263 | INFO | 0710 | PASSED: Zero results
+2025-07-10 23:57:13,520 | INFO | 0711 | PASSED: Zero results
+2025-07-10 23:57:13,795 | INFO | 0712 | PASSED: Zero results
+2025-07-10 23:57:14,030 | INFO | 0713 | PASSED: Zero results
+2025-07-10 23:57:14,287 | INFO | 0714 | PASSED: Zero results
+2025-07-10 23:57:14,514 | INFO | 0715 | PASSED: Zero results
+2025-07-10 23:57:14,781 | INFO | 0716 | PASSED: Zero results
+2025-07-10 23:57:15,035 | INFO | 0717 | PASSED: Zero results
+2025-07-10 23:57:15,295 | INFO | 0718 | PASSED: Zero results
+2025-07-10 23:57:15,524 | INFO | 0719 | PASSED: Zero results
+2025-07-10 23:57:15,787 | INFO | 0720 | PASSED: Zero results
+2025-07-10 23:57:16,062 | INFO | 0721 | PASSED: Zero results
+2025-07-10 23:57:16,291 | INFO | 0722 | PASSED: Zero results
+2025-07-10 23:57:16,559 | INFO | 0723 | PASSED: Zero results
+2025-07-10 23:57:16,791 | INFO | 0724 | PASSED: Zero results
+2025-07-10 23:57:17,062 | INFO | 0725 | PASSED: Zero results
+2025-07-10 23:57:17,295 | INFO | 0726 | PASSED: Zero results
+2025-07-10 23:57:17,688 | INFO | 0727 | PASSED: regulated Chemical Description
+2025-07-10 23:57:19,145 | INFO | 0728 | PASSED: Zero results
+2025-07-10 23:57:19,422 | INFO | 0729 | PASSED: Zero results
+2025-07-10 23:57:19,653 | INFO | 0730 | PASSED: Zero results
+2025-07-10 23:57:19,913 | INFO | 0731 | PASSED: Zero results
+2025-07-10 23:57:20,172 | INFO | 0732 | PASSED: Zero results
+2025-07-10 23:57:20,438 | INFO | 0733 | PASSED: Zero results
+2025-07-10 23:57:20,725 | INFO | 0734 | PASSED: Zero results
+2025-07-10 23:57:20,995 | INFO | 0735 | PASSED: Zero results
+2025-07-10 23:57:21,260 | INFO | 0736 | PASSED: Zero results
+2025-07-10 23:57:21,519 | INFO | 0737 | PASSED: Zero results
+2025-07-10 23:57:21,750 | INFO | 0738 | PASSED: Zero results
+2025-07-10 23:57:22,025 | INFO | 0739 | PASSED: Zero results
+2025-07-10 23:57:22,258 | INFO | 0740 | PASSED: Zero results
+2025-07-10 23:57:22,520 | INFO | 0741 | PASSED: Zero results
+2025-07-10 23:57:22,780 | INFO | 0742 | PASSED: Zero results
+2025-07-10 23:57:23,004 | INFO | 0743 | PASSED: Zero results
+2025-07-10 23:57:23,223 | INFO | 0744 | PASSED: Zero results
+2025-07-10 23:57:23,498 | INFO | 0745 | PASSED: Zero results
+2025-07-10 23:57:23,730 | INFO | 0746 | PASSED: Zero results
+2025-07-10 23:57:23,992 | INFO | 0747 | PASSED: Zero results
+2025-07-10 23:57:24,224 | INFO | 0748 | PASSED: Zero results
+2025-07-10 23:57:24,451 | INFO | 0749 | PASSED: Zero results
+2025-07-10 23:57:24,710 | INFO | 0750 | PASSED: Zero results
+2025-07-10 23:57:24,942 | INFO | 0751 | PASSED: Zero results
+2025-07-10 23:57:25,362 | INFO | 0752 | PASSED: child Nutrition Expiration Date Time
+2025-07-10 23:57:27,016 | INFO | 0753 | PASSED: child Nutrition Label Statement
+2025-07-10 23:57:28,526 | INFO | 0754 | PASSED: Zero results
+2025-07-10 23:57:28,921 | INFO | 0755 | PASSED: child Nutrition Product Identification
+2025-07-10 23:57:30,366 | INFO | 0756 | PASSED: Zero results
+2025-07-10 23:57:30,777 | INFO | 0757 | PASSED: child Nutrition Qualifier Code
+2025-07-10 23:57:32,426 | INFO | 0758 | PASSED: child Nutrition Qualified Value
+2025-07-10 23:57:33,937 | INFO | 0759 | PASSED: Zero results
+2025-07-10 23:57:34,356 | INFO | 0760 | PASSED: child Nutrition Value
+2025-07-10 23:57:35,843 | INFO | 0761 | PASSED: Zero results
+2025-07-10 23:57:36,119 | INFO | 0762 | PASSED: Zero results
+2025-07-10 23:57:36,351 | INFO | 0763 | PASSED: Zero results
+2025-07-10 23:57:36,618 | INFO | 0764 | PASSED: Zero results
+2025-07-10 23:57:36,848 | INFO | 0765 | PASSED: Zero results
+2025-07-10 23:57:37,085 | INFO | 0766 | PASSED: Zero results
+2025-07-10 23:57:37,363 | INFO | 0767 | PASSED: Zero results
+2025-07-10 23:57:37,599 | INFO | 0768 | PASSED: Zero results
+2025-07-10 23:57:37,868 | INFO | 0769 | PASSED: Zero results
+2025-07-10 23:57:38,142 | INFO | 0770 | PASSED: Zero results
+2025-07-10 23:57:38,380 | INFO | 0771 | PASSED: Zero results
+2025-07-10 23:57:38,615 | INFO | 0772 | PASSED: Zero results
+2025-07-10 23:57:38,841 | INFO | 0773 | PASSED: Zero results
+2025-07-10 23:57:39,074 | INFO | 0774 | PASSED: Zero results
+2025-07-10 23:57:39,346 | INFO | 0775 | PASSED: Zero results
+2025-07-10 23:57:39,747 | INFO | 0776 | PASSED: referenced File Type Code
+2025-07-10 23:57:41,408 | INFO | 0777 | PASSED: uniform Resource Identifier
+2025-07-10 23:57:42,929 | INFO | 0778 | PASSED: Zero results
+2025-07-10 23:57:43,208 | INFO | 0779 | PASSED: Zero results
+2025-07-10 23:57:43,441 | INFO | 0780 | PASSED: Zero results
+2025-07-10 23:57:43,715 | INFO | 0781 | PASSED: Zero results
+2025-07-10 23:57:43,952 | INFO | 0782 | PASSED: Zero results
+2025-07-10 23:57:44,231 | INFO | 0783 | PASSED: Zero results
+2025-07-10 23:57:44,461 | INFO | 0784 | PASSED: Zero results
+2025-07-10 23:57:44,691 | INFO | 0785 | PASSED: Zero results
+2025-07-10 23:57:44,962 | INFO | 0786 | PASSED: Zero results
+2025-07-10 23:57:45,206 | INFO | 0787 | PASSED: Zero results
+2025-07-10 23:57:45,430 | INFO | 0788 | PASSED: Zero results
+2025-07-10 23:57:45,803 | INFO | 0789 | PASSED: Consumer Storage Instructions
+2025-07-10 23:57:47,259 | INFO | 0790 | PASSED: Zero results
+2025-07-10 23:57:47,641 | INFO | 0791 | PASSED: Consumer Usage Instructions
+2025-07-10 23:57:49,108 | INFO | 0792 | PASSED: Zero results
+2025-07-10 23:57:49,353 | INFO | 0793 | PASSED: Zero results
+2025-07-10 23:57:49,617 | INFO | 0794 | PASSED: Zero results
+2025-07-10 23:57:49,890 | INFO | 0795 | PASSED: Zero results
+2025-07-10 23:57:50,118 | INFO | 0796 | PASSED: Zero results
+2025-07-10 23:57:50,389 | INFO | 0797 | PASSED: Zero results
+2025-07-10 23:57:50,618 | INFO | 0798 | PASSED: Zero results
+2025-07-10 23:57:50,882 | INFO | 0799 | PASSED: Zero results
+2025-07-10 23:57:51,137 | INFO | 0800 | PASSED: Zero results
+2025-07-10 23:57:51,393 | INFO | 0801 | PASSED: Zero results
+2025-07-10 23:57:51,667 | INFO | 0802 | PASSED: Zero results
+2025-07-10 23:57:51,897 | INFO | 0803 | PASSED: Zero results
+2025-07-10 23:57:52,166 | INFO | 0804 | PASSED: Zero results
+2025-07-10 23:58:12,650 | INFO | 0805 | PASSED: NO Tname and no Bname
+2025-07-10 23:58:34,295 | ERROR | 0805 | FAILED: Message: 
 Stacktrace:
-	GetHandleVerifier [0x0x7ff696ec82c5+23461]
-	(No symbol) [0x0x7ff696e1c3b0]
-	GetHandleVerifier [0x0x7ff6971401f8+2611928]
-	(No symbol) [0x0x7ff696c391a8]
-	(No symbol) [0x0x7ff696c3946b]
-	(No symbol) [0x0x7ff696c79a67]
-	(No symbol) [0x0x7ff696c5a6ff]
-	(No symbol) [0x0x7ff696c2f58d]
-	(No symbol) [0x0x7ff696c7754f]
-	(No symbol) [0x0x7ff696c5a423]
-	(No symbol) [0x0x7ff696c2ea86]
-	(No symbol) [0x0x7ff696c2dd11]
-	(No symbol) [0x0x7ff696c2e8b3]
-	(No symbol) [0x0x7ff696d2dd3d]
-	(No symbol) [0x0x7ff696d3b0c8]
-	GetHandleVerifier [0x0x7ff696fa810b+940523]
-	GetHandleVerifier [0x0x7ff696fb0e61+976705]
-	(No symbol) [0x0x7ff696e29fa1]
-	(No symbol) [0x0x7ff696e22984]
-	(No symbol) [0x0x7ff696e22ad3]
-	(No symbol) [0x0x7ff696e14576]
+	GetHandleVerifier [0x0x7ff7e84482c5+23461]
+	(No symbol) [0x0x7ff7e839c3b0]
+	GetHandleVerifier [0x0x7ff7e86c01f8+2611928]
+	(No symbol) [0x0x7ff7e81b91a8]
+	(No symbol) [0x0x7ff7e81b946b]
+	(No symbol) [0x0x7ff7e81f9a67]
+	(No symbol) [0x0x7ff7e81da6ff]
+	(No symbol) [0x0x7ff7e81af58d]
+	(No symbol) [0x0x7ff7e81f754f]
+	(No symbol) [0x0x7ff7e81da423]
+	(No symbol) [0x0x7ff7e81aea86]
+	(No symbol) [0x0x7ff7e81add11]
+	(No symbol) [0x0x7ff7e81ae8b3]
+	(No symbol) [0x0x7ff7e82add3d]
+	(No symbol) [0x0x7ff7e82bb0c8]
+	GetHandleVerifier [0x0x7ff7e852810b+940523]
+	GetHandleVerifier [0x0x7ff7e8530e61+976705]
+	(No symbol) [0x0x7ff7e83a9fa1]
+	(No symbol) [0x0x7ff7e83a2984]
+	(No symbol) [0x0x7ff7e83a2ad3]
+	(No symbol) [0x0x7ff7e8394576]
 	BaseThreadInitThunk [0x0x7ffdcdcce8d7+23]
 	RtlUserThreadStart [0x0x7ffdced3c34c+44]
 
-2025-07-10 22:26:48,548 | INFO | 0790 | PASSED: Zero results
-2025-07-10 22:27:19,270 | INFO | 0965 | PASSED: NO Tname and no Bname
-2025-07-10 22:27:40,951 | ERROR | 0965 | FAILED: Message: 
+2025-07-10 23:58:34,793 | INFO | 0806 | PASSED: external Agency Name
+2025-07-10 23:58:36,243 | INFO | 0807 | PASSED: Zero results
+2025-07-10 23:58:36,529 | INFO | 0808 | PASSED: Zero results
+2025-07-10 23:58:36,781 | INFO | 0809 | PASSED: Zero results
+2025-07-10 23:58:37,333 | INFO | 0810 | PASSED: enumeration Value
+2025-07-10 23:58:38,718 | INFO | 0811 | PASSED: Zero results
+2025-07-10 23:58:38,961 | INFO | 0812 | PASSED: Zero results
+2025-07-10 23:58:39,195 | INFO | 0813 | PASSED: Zero results
+2025-07-10 23:58:39,413 | INFO | 0814 | PASSED: Zero results
+2025-07-10 23:58:39,639 | INFO | 0815 | PASSED: Zero results
+2025-07-10 23:58:39,862 | INFO | 0816 | PASSED: Zero results
+2025-07-10 23:58:40,086 | INFO | 0817 | PASSED: Zero results
+2025-07-10 23:58:40,313 | INFO | 0818 | PASSED: Zero results
+2025-07-10 23:58:40,539 | INFO | 0819 | PASSED: Zero results
+2025-07-10 23:58:40,796 | INFO | 0820 | PASSED: Zero results
+2025-07-10 23:58:41,026 | INFO | 0821 | PASSED: Zero results
+2025-07-10 23:58:41,258 | INFO | 0822 | PASSED: Zero results
+2025-07-10 23:58:41,488 | INFO | 0823 | PASSED: Zero results
+2025-07-10 23:58:41,761 | INFO | 0824 | PASSED: Zero results
+2025-07-10 23:58:41,987 | INFO | 0825 | PASSED: Zero results
+2025-07-10 23:58:42,247 | INFO | 0826 | PASSED: Zero results
+2025-07-10 23:58:42,474 | INFO | 0827 | PASSED: Zero results
+2025-07-10 23:58:42,735 | INFO | 0828 | PASSED: Zero results
+2025-07-10 23:58:42,955 | INFO | 0829 | PASSED: Zero results
+2025-07-10 23:58:43,217 | INFO | 0830 | PASSED: Zero results
+2025-07-10 23:58:43,480 | INFO | 0831 | PASSED: Zero results
+2025-07-10 23:58:43,704 | INFO | 0832 | PASSED: Zero results
+2025-07-10 23:58:43,925 | INFO | 0833 | PASSED: Zero results
+2025-07-10 23:58:44,187 | INFO | 0834 | PASSED: Zero results
+2025-07-10 23:58:44,407 | INFO | 0835 | PASSED: Zero results
+2025-07-10 23:58:44,635 | INFO | 0836 | PASSED: Zero results
+2025-07-10 23:58:44,865 | INFO | 0837 | PASSED: Zero results
+2025-07-10 23:58:45,097 | INFO | 0838 | PASSED: Zero results
+2025-07-10 23:58:45,333 | INFO | 0839 | PASSED: Zero results
+2025-07-10 23:58:45,562 | INFO | 0840 | PASSED: Zero results
+2025-07-10 23:58:45,783 | INFO | 0841 | PASSED: Zero results
+2025-07-10 23:58:46,005 | INFO | 0842 | PASSED: Zero results
+2025-07-10 23:58:46,232 | INFO | 0843 | PASSED: Zero results
+2025-07-10 23:58:46,462 | INFO | 0844 | PASSED: Zero results
+2025-07-10 23:58:46,692 | INFO | 0845 | PASSED: Zero results
+2025-07-10 23:58:46,915 | INFO | 0846 | PASSED: Zero results
+2025-07-10 23:58:47,190 | INFO | 0847 | PASSED: Zero results
+2025-07-10 23:58:47,414 | INFO | 0848 | PASSED: Zero results
+2025-07-10 23:58:47,638 | INFO | 0849 | PASSED: Zero results
+2025-07-10 23:58:47,870 | INFO | 0850 | PASSED: Zero results
+2025-07-10 23:58:48,308 | INFO | 0851 | PASSED: Zero results
+2025-07-10 23:58:48,588 | INFO | 0852 | PASSED: Zero results
+2025-07-10 23:58:48,820 | INFO | 0853 | PASSED: Zero results
+2025-07-10 23:58:49,093 | INFO | 0854 | PASSED: Zero results
+2025-07-10 23:58:49,365 | INFO | 0855 | PASSED: Zero results
+2025-07-10 23:58:49,596 | INFO | 0856 | PASSED: Zero results
+2025-07-10 23:58:49,874 | INFO | 0857 | PASSED: Zero results
+2025-07-10 23:58:50,095 | INFO | 0858 | PASSED: Zero results
+2025-07-10 23:58:50,321 | INFO | 0859 | PASSED: Zero results
+2025-07-10 23:58:50,593 | INFO | 0860 | PASSED: Zero results
+2025-07-10 23:58:50,867 | INFO | 0861 | PASSED: Zero results
+2025-07-10 23:58:51,179 | INFO | 0862 | PASSED: Zero results
+2025-07-10 23:58:51,452 | INFO | 0863 | PASSED: Zero results
+2025-07-10 23:58:51,721 | INFO | 0864 | PASSED: Zero results
+2025-07-10 23:58:51,989 | INFO | 0865 | PASSED: Zero results
+2025-07-10 23:58:52,251 | INFO | 0866 | PASSED: Zero results
+2025-07-10 23:58:52,475 | INFO | 0867 | PASSED: Zero results
+2025-07-10 23:58:52,747 | INFO | 0868 | PASSED: Zero results
+2025-07-10 23:58:52,981 | INFO | 0869 | PASSED: Zero results
+2025-07-10 23:58:53,209 | INFO | 0870 | PASSED: Zero results
+2025-07-10 23:58:53,429 | INFO | 0871 | PASSED: Zero results
+2025-07-10 23:58:53,693 | INFO | 0872 | PASSED: Zero results
+2025-07-10 23:58:53,932 | INFO | 0873 | PASSED: Zero results
+2025-07-10 23:58:54,164 | INFO | 0874 | PASSED: Zero results
+2025-07-10 23:58:54,395 | INFO | 0875 | PASSED: Zero results
+2025-07-10 23:58:54,616 | INFO | 0876 | PASSED: Zero results
+2025-07-10 23:58:55,018 | INFO | 0877 | PASSED: casing Tare Weight
+2025-07-10 23:58:56,436 | INFO | 0878 | PASSED: Zero results
+2025-07-10 23:58:56,808 | INFO | 0879 | PASSED: Percent of Milk Fat In Dairy
+2025-07-10 23:58:58,361 | INFO | 0880 | PASSED: Homogenised Indicator
+2025-07-10 23:58:59,836 | INFO | 0881 | PASSED: Zero results
+2025-07-10 23:59:00,124 | INFO | 0882 | PASSED: Zero results
+2025-07-10 23:59:00,405 | INFO | 0883 | PASSED: Zero results
+2025-07-10 23:59:00,672 | INFO | 0884 | PASSED: Zero results
+2025-07-10 23:59:00,934 | INFO | 0885 | PASSED: Zero results
+2025-07-10 23:59:01,162 | INFO | 0886 | PASSED: Zero results
+2025-07-10 23:59:01,464 | INFO | 0887 | PASSED: Zero results
+2025-07-10 23:59:01,742 | INFO | 0888 | PASSED: Zero results
+2025-07-10 23:59:01,999 | INFO | 0889 | PASSED: Zero results
+2025-07-10 23:59:02,384 | INFO | 0890 | PASSED: cheese Maturation Period Description
+2025-07-10 23:59:03,846 | INFO | 0891 | PASSED: Zero results
+2025-07-10 23:59:04,426 | INFO | 0892 | PASSED: cheese Maturation Process Container Type Code
+2025-07-10 23:59:05,978 | INFO | 0893 | PASSED: Percent of Fat In Cheese
+2025-07-10 23:59:07,561 | INFO | 0894 | PASSED: is Rind Edible
+2025-07-10 23:59:09,130 | INFO | 0895 | PASSED: rennet Type Code
+2025-07-10 23:59:10,692 | INFO | 0896 | PASSED: ripening Time Period
+2025-07-10 23:59:12,137 | INFO | 0897 | PASSED: Zero results
+2025-07-10 23:59:12,548 | INFO | 0898 | PASSED: surface Of Cheese At End Of Ripening Code
+2025-07-10 23:59:13,935 | INFO | 0899 | PASSED: Zero results
+2025-07-10 23:59:14,352 | INFO | 0900 | PASSED: minimum Fish Meat Poultry Content
+2025-07-10 23:59:15,804 | INFO | 0901 | PASSED: Zero results
+2025-07-10 23:59:16,222 | INFO | 0902 | PASSED: fish Meat Poultry Type Code Reference
+2025-07-10 23:59:17,627 | INFO | 0903 | PASSED: Zero results
+2025-07-10 23:59:17,907 | INFO | 0904 | PASSED: Zero results
+2025-07-10 23:59:18,136 | INFO | 0905 | PASSED: Zero results
+2025-07-10 23:59:18,351 | INFO | 0906 | PASSED: Zero results
+2025-07-10 23:59:18,619 | INFO | 0907 | PASSED: Zero results
+2025-07-10 23:59:18,874 | INFO | 0908 | PASSED: Zero results
+2025-07-10 23:59:19,140 | INFO | 0909 | PASSED: Zero results
+2025-07-10 23:59:19,402 | INFO | 0910 | PASSED: Zero results
+2025-07-10 23:59:19,796 | INFO | 0911 | PASSED: species For Fishery Statistics Purposes Code
+2025-07-10 23:59:21,325 | INFO | 0912 | PASSED: Fish Scientific Name
+2025-07-10 23:59:22,780 | INFO | 0913 | PASSED: Zero results
+2025-07-10 23:59:23,148 | INFO | 0914 | PASSED: Fishing Gear Code
+2025-07-10 23:59:24,711 | INFO | 0915 | PASSED: Fish Production Method Code
+2025-07-10 23:59:26,483 | INFO | 0916 | PASSED: Fish Storage State Code
+2025-07-10 23:59:27,919 | INFO | 0917 | PASSED: Zero results
+2025-07-10 23:59:28,341 | INFO | 0918 | PASSED: catch Date Time
+2025-07-10 23:59:29,936 | INFO | 0919 | PASSED: date Of Catch Process Type Code
+2025-07-10 23:59:31,359 | INFO | 0920 | PASSED: Zero results
+2025-07-10 23:59:31,611 | INFO | 0921 | PASSED: Zero results
+2025-07-10 23:59:31,842 | INFO | 0922 | PASSED: Zero results
+2025-07-10 23:59:32,060 | INFO | 0923 | PASSED: Zero results
+2025-07-10 23:59:32,287 | INFO | 0924 | PASSED: Zero results
+2025-07-10 23:59:32,511 | INFO | 0925 | PASSED: Zero results
+2025-07-10 23:59:32,743 | INFO | 0926 | PASSED: Zero results
+2025-07-10 23:59:32,972 | INFO | 0927 | PASSED: Zero results
+2025-07-10 23:59:33,205 | INFO | 0928 | PASSED: Zero results
+2025-07-10 23:59:33,484 | INFO | 0929 | PASSED: Zero results
+2025-07-10 23:59:33,710 | INFO | 0930 | PASSED: Zero results
+2025-07-10 23:59:33,978 | INFO | 0931 | PASSED: Zero results
+2025-07-10 23:59:34,200 | INFO | 0932 | PASSED: Zero results
+2025-07-10 23:59:34,585 | INFO | 0933 | PASSED: dangerous Substance Gas Density
+2025-07-10 23:59:36,047 | INFO | 0934 | PASSED: Zero results
+2025-07-10 23:59:36,457 | INFO | 0935 | PASSED: dangerous Substance Name
+2025-07-10 23:59:37,997 | INFO | 0936 | PASSED: dangerous Substance Phase Of Matter Code
+2025-07-10 23:59:39,419 | INFO | 0937 | PASSED: Zero results
+2025-07-10 23:59:39,831 | INFO | 0938 | PASSED: flammable Substance Maximum Percent
+2025-07-10 23:59:41,401 | INFO | 0939 | PASSED: flammable Substance Minimum Percent
+2025-07-10 23:59:42,990 | INFO | 0940 | PASSED: is Dangerous Substance
+2025-07-10 23:59:44,537 | INFO | 0941 | PASSED: is Dangerous Substance A Mixture
+2025-07-10 23:59:45,931 | INFO | 0942 | PASSED: Zero results
+2025-07-10 23:59:46,170 | INFO | 0943 | PASSED: Zero results
+2025-07-10 23:59:46,404 | INFO | 0944 | PASSED: Zero results
+2025-07-10 23:59:46,637 | INFO | 0945 | PASSED: Zero results
+2025-07-10 23:59:46,866 | INFO | 0946 | PASSED: Zero results
+2025-07-10 23:59:47,085 | INFO | 0947 | PASSED: Zero results
+2025-07-10 23:59:47,304 | INFO | 0948 | PASSED: Zero results
+2025-07-10 23:59:47,526 | INFO | 0949 | PASSED: Zero results
+2025-07-10 23:59:47,744 | INFO | 0950 | PASSED: Zero results
+2025-07-10 23:59:47,970 | INFO | 0951 | PASSED: Zero results
+2025-07-10 23:59:48,201 | INFO | 0952 | PASSED: Zero results
+2025-07-10 23:59:48,435 | INFO | 0953 | PASSED: Zero results
+2025-07-10 23:59:48,662 | INFO | 0954 | PASSED: Zero results
+2025-07-10 23:59:48,928 | INFO | 0955 | PASSED: Zero results
+2025-07-10 23:59:49,147 | INFO | 0956 | PASSED: Zero results
+2025-07-10 23:59:49,374 | INFO | 0957 | PASSED: Zero results
+2025-07-10 23:59:49,598 | INFO | 0958 | PASSED: Zero results
+2025-07-10 23:59:49,827 | INFO | 0959 | PASSED: Zero results
+2025-07-10 23:59:50,107 | INFO | 0960 | PASSED: Zero results
+2025-07-10 23:59:50,367 | INFO | 0961 | PASSED: Zero results
+2025-07-10 23:59:50,638 | INFO | 0962 | PASSED: Zero results
+2025-07-10 23:59:50,873 | INFO | 0963 | PASSED: Zero results
+2025-07-10 23:59:51,146 | INFO | 0964 | PASSED: Zero results
+2025-07-11 00:00:11,958 | INFO | 0965 | PASSED: NO Tname and no Bname
+2025-07-11 00:00:33,637 | ERROR | 0965 | FAILED: Message: 
 Stacktrace:
-	GetHandleVerifier [0x0x7ff696ec82c5+23461]
-	(No symbol) [0x0x7ff696e1c3b0]
-	GetHandleVerifier [0x0x7ff6971401f8+2611928]
-	(No symbol) [0x0x7ff696c391a8]
-	(No symbol) [0x0x7ff696c3946b]
-	(No symbol) [0x0x7ff696c79a67]
-	(No symbol) [0x0x7ff696c5a6ff]
-	(No symbol) [0x0x7ff696c2f58d]
-	(No symbol) [0x0x7ff696c7754f]
-	(No symbol) [0x0x7ff696c5a423]
-	(No symbol) [0x0x7ff696c2ea86]
-	(No symbol) [0x0x7ff696c2dd11]
-	(No symbol) [0x0x7ff696c2e8b3]
-	(No symbol) [0x0x7ff696d2dd3d]
-	(No symbol) [0x0x7ff696d3b0c8]
-	GetHandleVerifier [0x0x7ff696fa810b+940523]
-	GetHandleVerifier [0x0x7ff696fb0e61+976705]
-	(No symbol) [0x0x7ff696e29fa1]
-	(No symbol) [0x0x7ff696e22984]
-	(No symbol) [0x0x7ff696e22ad3]
-	(No symbol) [0x0x7ff696e14576]
+	GetHandleVerifier [0x0x7ff7e84482c5+23461]
+	(No symbol) [0x0x7ff7e839c3b0]
+	GetHandleVerifier [0x0x7ff7e86c01f8+2611928]
+	(No symbol) [0x0x7ff7e81b91a8]
+	(No symbol) [0x0x7ff7e81b946b]
+	(No symbol) [0x0x7ff7e81f9a67]
+	(No symbol) [0x0x7ff7e81da6ff]
+	(No symbol) [0x0x7ff7e81af58d]
+	(No symbol) [0x0x7ff7e81f754f]
+	(No symbol) [0x0x7ff7e81da423]
+	(No symbol) [0x0x7ff7e81aea86]
+	(No symbol) [0x0x7ff7e81add11]
+	(No symbol) [0x0x7ff7e81ae8b3]
+	(No symbol) [0x0x7ff7e82add3d]
+	(No symbol) [0x0x7ff7e82bb0c8]
+	GetHandleVerifier [0x0x7ff7e852810b+940523]
+	GetHandleVerifier [0x0x7ff7e8530e61+976705]
+	(No symbol) [0x0x7ff7e83a9fa1]
+	(No symbol) [0x0x7ff7e83a2984]
+	(No symbol) [0x0x7ff7e83a2ad3]
+	(No symbol) [0x0x7ff7e8394576]
 	BaseThreadInitThunk [0x0x7ffdcdcce8d7+23]
 	RtlUserThreadStart [0x0x7ffdced3c34c+44]
 
-2025-07-10 22:27:51,507 | INFO | 1525 | PASSED: short Trade Item Marketing Message
+2025-07-11 00:00:34,129 | INFO | 0966 | PASSED: external Agency Name
+2025-07-11 00:00:35,676 | INFO | 0967 | PASSED: Zero results
+2025-07-11 00:00:35,985 | INFO | 0968 | PASSED: Zero results
+2025-07-11 00:00:56,582 | INFO | 0969 | PASSED: NO Tname and no Bname
+2025-07-11 00:01:18,254 | ERROR | 0969 | FAILED: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7e84482c5+23461]
+	(No symbol) [0x0x7ff7e839c3b0]
+	GetHandleVerifier [0x0x7ff7e86c01f8+2611928]
+	(No symbol) [0x0x7ff7e81b91a8]
+	(No symbol) [0x0x7ff7e81b946b]
+	(No symbol) [0x0x7ff7e81f9a67]
+	(No symbol) [0x0x7ff7e81da6ff]
+	(No symbol) [0x0x7ff7e81af58d]
+	(No symbol) [0x0x7ff7e81f754f]
+	(No symbol) [0x0x7ff7e81da423]
+	(No symbol) [0x0x7ff7e81aea86]
+	(No symbol) [0x0x7ff7e81add11]
+	(No symbol) [0x0x7ff7e81ae8b3]
+	(No symbol) [0x0x7ff7e82add3d]
+	(No symbol) [0x0x7ff7e82bb0c8]
+	GetHandleVerifier [0x0x7ff7e852810b+940523]
+	GetHandleVerifier [0x0x7ff7e8530e61+976705]
+	(No symbol) [0x0x7ff7e83a9fa1]
+	(No symbol) [0x0x7ff7e83a2984]
+	(No symbol) [0x0x7ff7e83a2ad3]
+	(No symbol) [0x0x7ff7e8394576]
+	BaseThreadInitThunk [0x0x7ffdcdcce8d7+23]
+	RtlUserThreadStart [0x0x7ffdced3c34c+44]
+
+2025-07-11 00:01:18,829 | INFO | 0970 | PASSED: Zero results
+2025-07-11 00:01:19,111 | INFO | 0971 | PASSED: Zero results
+2025-07-11 00:01:19,383 | INFO | 0972 | PASSED: Zero results
+2025-07-11 00:01:19,644 | INFO | 0973 | PASSED: Zero results
+2025-07-11 00:01:19,908 | INFO | 0974 | PASSED: Zero results
+2025-07-11 00:01:20,169 | INFO | 0975 | PASSED: Zero results
+2025-07-11 00:01:20,626 | INFO | 0976 | PASSED: external Agency Name
+2025-07-11 00:01:22,045 | INFO | 0977 | PASSED: Zero results
+2025-07-11 00:01:22,287 | INFO | 0978 | PASSED: Zero results
+2025-07-11 00:01:22,528 | INFO | 0979 | PASSED: Zero results
+2025-07-11 00:01:22,918 | INFO | 0980 | PASSED: enumeration Value
+2025-07-11 00:01:24,315 | INFO | 0981 | PASSED: Zero results
+2025-07-11 00:01:24,555 | INFO | 0982 | PASSED: Zero results
+2025-07-11 00:01:24,787 | INFO | 0983 | PASSED: Zero results
+2025-07-11 00:01:25,004 | INFO | 0984 | PASSED: Zero results
+2025-07-11 00:01:25,224 | INFO | 0985 | PASSED: Zero results
+2025-07-11 00:01:25,576 | INFO | 0986 | PASSED: Hazardous Label Number
+2025-07-11 00:01:27,543 | INFO | 0987 | PASSED: Hazardous Label Sequence Number
+2025-07-11 00:01:29,036 | INFO | 0988 | PASSED: Zero results
+2025-07-11 00:01:29,310 | INFO | 0989 | PASSED: Zero results
+2025-07-11 00:01:29,617 | INFO | 0990 | PASSED: Zero results
+2025-07-11 00:01:29,880 | INFO | 0991 | PASSED: Zero results
+2025-07-11 00:01:30,109 | INFO | 0992 | PASSED: Zero results
+2025-07-11 00:01:30,341 | INFO | 0993 | PASSED: Zero results
+2025-07-11 00:01:30,609 | INFO | 0994 | PASSED: Zero results
+2025-07-11 00:01:30,883 | INFO | 0995 | PASSED: Zero results
+2025-07-11 00:01:31,111 | INFO | 0996 | PASSED: Zero results
+2025-07-11 00:01:31,336 | INFO | 0997 | PASSED: Zero results
+2025-07-11 00:01:31,559 | INFO | 0998 | PASSED: Zero results
+2025-07-11 00:01:31,831 | INFO | 0999 | PASSED: Zero results
+2025-07-11 00:01:32,055 | INFO | 1000 | PASSED: Zero results
+2025-07-11 00:01:32,415 | INFO | 1001 | PASSED: Consumer Sell Date/Time
+2025-07-11 00:01:33,999 | INFO | 1002 | PASSED: End Availability Date/Time
+2025-07-11 00:01:35,531 | INFO | 1003 | PASSED: Zero results
+2025-07-11 00:01:35,787 | INFO | 1004 | PASSED: Zero results
+2025-07-11 00:01:36,028 | INFO | 1005 | PASSED: Zero results
+2025-07-11 00:01:36,258 | INFO | 1006 | PASSED: Zero results
+2025-07-11 00:01:36,623 | INFO | 1007 | PASSED: First Order Date/Time
+2025-07-11 00:01:38,567 | INFO | 1008 | PASSED: First Ship Date/Time (to be deprecated)
+2025-07-11 00:01:40,156 | INFO | 1009 | PASSED: Zero results
+2025-07-11 00:01:40,395 | INFO | 1010 | PASSED: Zero results
+2025-07-11 00:01:40,742 | INFO | 1011 | PASSED: is One Time Buy
+2025-07-11 00:01:42,006 | INFO | 1012 | PASSED: Zero results
+2025-07-11 00:01:42,258 | INFO | 1013 | PASSED: Zero results
+2025-07-11 00:01:42,502 | INFO | 1014 | PASSED: Zero results
+2025-07-11 00:01:42,779 | INFO | 1015 | PASSED: Zero results
+2025-07-11 00:01:43,024 | INFO | 1016 | PASSED: Zero results
+2025-07-11 00:01:43,244 | INFO | 1017 | PASSED: Zero results
+2025-07-11 00:01:43,581 | INFO | 1018 | PASSED: ordering Unit Of Measure
+2025-07-11 00:01:44,881 | INFO | 1019 | PASSED: order Quantity Maximum
+2025-07-11 00:01:46,431 | INFO | 1020 | PASSED: Minimum Orderable Quantity
+2025-07-11 00:01:47,688 | INFO | 1021 | PASSED: order Quantity Multiple
+2025-07-11 00:01:48,766 | INFO | 1022 | PASSED: Zero results
+2025-07-11 00:01:48,952 | INFO | 1023 | PASSED: Zero results
+2025-07-11 00:01:49,124 | INFO | 1024 | PASSED: Zero results
+2025-07-11 00:01:49,423 | INFO | 1025 | PASSED: First Ship Date/Time
+2025-07-11 00:01:50,491 | INFO | 1026 | PASSED: Zero results
+2025-07-11 00:01:50,679 | INFO | 1027 | PASSED: Zero results
+2025-07-11 00:01:50,988 | INFO | 1028 | PASSED: consumer End Availability Date Time
+2025-07-11 00:01:52,190 | INFO | 1029 | PASSED: Consumer Restricted Delivery Date/Time
+2025-07-11 00:01:53,589 | INFO | 1030 | PASSED: Zero results
+2025-07-11 00:01:53,793 | INFO | 1031 | PASSED: Zero results
+2025-07-11 00:01:53,986 | INFO | 1032 | PASSED: Zero results
+2025-07-11 00:01:54,190 | INFO | 1033 | PASSED: Zero results
+2025-07-11 00:01:54,414 | INFO | 1034 | PASSED: Zero results
+2025-07-11 00:01:54,650 | INFO | 1035 | PASSED: Zero results
+2025-07-11 00:01:54,883 | INFO | 1036 | PASSED: Zero results
+2025-07-11 00:01:55,122 | INFO | 1037 | PASSED: Zero results
+2025-07-11 00:01:55,355 | INFO | 1038 | PASSED: Zero results
+2025-07-11 00:01:55,634 | INFO | 1039 | PASSED: Zero results
+2025-07-11 00:01:55,865 | INFO | 1040 | PASSED: Zero results
+2025-07-11 00:01:56,100 | INFO | 1041 | PASSED: Zero results
+2025-07-11 00:01:56,330 | INFO | 1042 | PASSED: Zero results
+2025-07-11 00:01:56,577 | INFO | 1043 | PASSED: Zero results
+2025-07-11 00:01:56,999 | INFO | 1044 | PASSED: is Non Sold Trade Item Returnable
+2025-07-11 00:01:58,419 | INFO | 1045 | PASSED: Zero results
+2025-07-11 00:01:58,662 | INFO | 1046 | PASSED: Zero results
+2025-07-11 00:01:58,921 | INFO | 1047 | PASSED: Zero results
+2025-07-11 00:01:59,161 | INFO | 1048 | PASSED: Zero results
+2025-07-11 00:01:59,576 | INFO | 1049 | PASSED: distribution Method Code
+2025-07-11 00:02:01,169 | INFO | 1050 | PASSED: is Distribution Method Primary
+2025-07-11 00:02:02,569 | INFO | 1051 | PASSED: Zero results
+2025-07-11 00:02:02,806 | INFO | 1052 | PASSED: Zero results
+2025-07-11 00:02:03,030 | INFO | 1053 | PASSED: Zero results
+2025-07-11 00:02:03,259 | INFO | 1054 | PASSED: Zero results
+2025-07-11 00:02:03,659 | INFO | 1055 | PASSED: diet Type Description
+2025-07-11 00:02:05,066 | INFO | 1056 | PASSED: Zero results
+2025-07-11 00:02:05,309 | INFO | 1057 | PASSED: Zero results
+2025-07-11 00:02:05,535 | INFO | 1058 | PASSED: Zero results
+2025-07-11 00:02:05,777 | INFO | 1059 | PASSED: Zero results
+2025-07-11 00:02:06,009 | INFO | 1060 | PASSED: Zero results
+2025-07-11 00:02:06,238 | INFO | 1061 | PASSED: Zero results
+2025-07-11 00:02:06,475 | INFO | 1062 | PASSED: Zero results
+2025-07-11 00:02:06,704 | INFO | 1063 | PASSED: Zero results
+2025-07-11 00:02:06,960 | INFO | 1064 | PASSED: Zero results
+2025-07-11 00:02:07,208 | INFO | 1065 | PASSED: Zero results
+2025-07-11 00:02:07,585 | INFO | 1066 | PASSED: Dietary Regime Code
+2025-07-11 00:02:09,190 | INFO | 1067 | PASSED: diet Type Subcode
+2025-07-11 00:02:10,623 | INFO | 1068 | PASSED: Zero results
+2025-07-11 00:02:11,028 | INFO | 1069 | PASSED: certification Agency
+2025-07-11 00:02:12,429 | INFO | 1070 | PASSED: Zero results
+2025-07-11 00:02:12,667 | INFO | 1071 | PASSED: Zero results
+2025-07-11 00:02:12,905 | INFO | 1072 | PASSED: Zero results
+2025-07-11 00:02:13,139 | INFO | 1073 | PASSED: Zero results
+2025-07-11 00:02:13,373 | INFO | 1074 | PASSED: Zero results
+2025-07-11 00:02:13,608 | INFO | 1075 | PASSED: Zero results
+2025-07-11 00:02:13,857 | INFO | 1076 | PASSED: Zero results
+2025-07-11 00:02:14,090 | INFO | 1077 | PASSED: Zero results
+2025-07-11 00:02:14,319 | INFO | 1078 | PASSED: Zero results
+2025-07-11 00:02:14,547 | INFO | 1079 | PASSED: Zero results
+2025-07-11 00:02:14,768 | INFO | 1080 | PASSED: Zero results
+2025-07-11 00:02:15,003 | INFO | 1081 | PASSED: Zero results
+2025-07-11 00:02:15,236 | INFO | 1082 | PASSED: Zero results
+2025-07-11 00:02:15,469 | INFO | 1083 | PASSED: Zero results
+2025-07-11 00:02:15,695 | INFO | 1084 | PASSED: Zero results
+2025-07-11 00:02:15,933 | INFO | 1085 | PASSED: Zero results
+2025-07-11 00:02:16,162 | INFO | 1086 | PASSED: Zero results
+2025-07-11 00:02:16,410 | INFO | 1087 | PASSED: Zero results
+2025-07-11 00:02:16,657 | INFO | 1088 | PASSED: Zero results
+2025-07-11 00:02:17,058 | INFO | 1089 | PASSED: certification Value
+2025-07-11 00:02:18,457 | INFO | 1090 | PASSED: Zero results
+2025-07-11 00:02:18,696 | INFO | 1091 | PASSED: Zero results
+2025-07-11 00:02:18,958 | INFO | 1092 | PASSED: Zero results
+2025-07-11 00:02:19,188 | INFO | 1093 | PASSED: Zero results
+2025-07-11 00:02:19,431 | INFO | 1094 | PASSED: Zero results
+2025-07-11 00:02:19,669 | INFO | 1095 | PASSED: Zero results
+2025-07-11 00:02:19,903 | INFO | 1096 | PASSED: Zero results
+2025-07-11 00:02:20,159 | INFO | 1097 | PASSED: Zero results
+2025-07-11 00:02:20,389 | INFO | 1098 | PASSED: Zero results
+2025-07-11 00:02:20,622 | INFO | 1099 | PASSED: Zero results
+2025-07-11 00:02:20,853 | INFO | 1100 | PASSED: Zero results
+2025-07-11 00:02:21,090 | INFO | 1101 | PASSED: Zero results
+2025-07-11 00:02:21,324 | INFO | 1102 | PASSED: Zero results
+2025-07-11 00:02:21,557 | INFO | 1103 | PASSED: Zero results
+2025-07-11 00:02:21,796 | INFO | 1104 | PASSED: Zero results
+2025-07-11 00:02:22,024 | INFO | 1105 | PASSED: Zero results
+2025-07-11 00:02:22,249 | INFO | 1106 | PASSED: Zero results
+2025-07-11 00:02:22,487 | INFO | 1107 | PASSED: Zero results
+2025-07-11 00:02:22,717 | INFO | 1108 | PASSED: Zero results
+2025-07-11 00:02:22,948 | INFO | 1109 | PASSED: Zero results
+2025-07-11 00:02:23,188 | INFO | 1110 | PASSED: Zero results
+2025-07-11 00:02:23,476 | INFO | 1111 | PASSED: Zero results
+2025-07-11 00:02:23,720 | INFO | 1112 | PASSED: Zero results
+2025-07-11 00:02:23,966 | INFO | 1113 | PASSED: Zero results
+2025-07-11 00:02:24,202 | INFO | 1114 | PASSED: Zero results
+2025-07-11 00:02:24,447 | INFO | 1115 | PASSED: Zero results
+2025-07-11 00:02:24,686 | INFO | 1116 | PASSED: Zero results
+2025-07-11 00:02:24,922 | INFO | 1117 | PASSED: Zero results
+2025-07-11 00:02:25,155 | INFO | 1118 | PASSED: Zero results
+2025-07-11 00:02:25,391 | INFO | 1119 | PASSED: Zero results
+2025-07-11 00:02:25,630 | INFO | 1120 | PASSED: Zero results
+2025-07-11 00:02:25,866 | INFO | 1121 | PASSED: Zero results
+2025-07-11 00:02:26,119 | INFO | 1122 | PASSED: Zero results
+2025-07-11 00:02:26,375 | INFO | 1123 | PASSED: Zero results
+2025-07-11 00:02:26,618 | INFO | 1124 | PASSED: Zero results
+2025-07-11 00:02:26,852 | INFO | 1125 | PASSED: Zero results
+2025-07-11 00:02:27,097 | INFO | 1126 | PASSED: Zero results
+2025-07-11 00:02:27,333 | INFO | 1127 | PASSED: Zero results
+2025-07-11 00:02:27,571 | INFO | 1128 | PASSED: Zero results
+2025-07-11 00:02:27,803 | INFO | 1129 | PASSED: Zero results
+2025-07-11 00:02:28,035 | INFO | 1130 | PASSED: Zero results
+2025-07-11 00:02:28,257 | INFO | 1131 | PASSED: Zero results
+2025-07-11 00:02:28,484 | INFO | 1132 | PASSED: Zero results
+2025-07-11 00:02:28,718 | INFO | 1133 | PASSED: Zero results
+2025-07-11 00:02:28,949 | INFO | 1134 | PASSED: Zero results
+2025-07-11 00:02:29,172 | INFO | 1135 | PASSED: Zero results
+2025-07-11 00:02:29,399 | INFO | 1136 | PASSED: Zero results
+2025-07-11 00:02:29,635 | INFO | 1137 | PASSED: Zero results
+2025-07-11 00:02:29,859 | INFO | 1138 | PASSED: Zero results
+2025-07-11 00:02:30,087 | INFO | 1139 | PASSED: Zero results
+2025-07-11 00:02:30,319 | INFO | 1140 | PASSED: Zero results
+2025-07-11 00:02:30,553 | INFO | 1141 | PASSED: Zero results
+2025-07-11 00:02:30,790 | INFO | 1142 | PASSED: Zero results
+2025-07-11 00:02:31,024 | INFO | 1143 | PASSED: Zero results
+2025-07-11 00:02:31,256 | INFO | 1144 | PASSED: Zero results
+2025-07-11 00:02:31,488 | INFO | 1145 | PASSED: Zero results
+2025-07-11 00:02:31,918 | INFO | 1146 | PASSED: duty Fee Tax Agency Code
+2025-07-11 00:02:33,301 | INFO | 1147 | PASSED: Zero results
+2025-07-11 00:02:33,719 | INFO | 1148 | PASSED: duty Fee Tax Classification Code
+2025-07-11 00:02:35,116 | INFO | 1149 | PASSED: Zero results
+2025-07-11 00:02:35,528 | INFO | 1150 | PASSED: duty Fee Tax Effective End Date Time
+2025-07-11 00:02:37,075 | INFO | 1151 | PASSED: duty Fee Tax Effective Start Date Time
+2025-07-11 00:02:38,816 | INFO | 1152 | PASSED: Tax Type Code
+2025-07-11 00:02:40,443 | INFO | 1153 | PASSED: Tax Type Code Description
+2025-07-11 00:02:41,859 | INFO | 1154 | PASSED: Zero results
+2025-07-11 00:02:42,275 | INFO | 1155 | PASSED: is Trade Item A Combination Item
+2025-07-11 00:02:43,780 | INFO | 1156 | PASSED: Zero results
+2025-07-11 00:02:44,027 | INFO | 1157 | PASSED: Zero results
+2025-07-11 00:02:44,270 | INFO | 1158 | PASSED: Zero results
+2025-07-11 00:02:44,511 | INFO | 1159 | PASSED: Zero results
+2025-07-11 00:02:44,742 | INFO | 1160 | PASSED: Zero results
+2025-07-11 00:02:44,972 | INFO | 1161 | PASSED: Zero results
+2025-07-11 00:02:45,206 | INFO | 1162 | PASSED: Zero results
+2025-07-11 00:02:45,436 | INFO | 1163 | PASSED: Zero results
+2025-07-11 00:02:45,675 | INFO | 1164 | PASSED: Zero results
+2025-07-11 00:02:45,909 | INFO | 1165 | PASSED: Zero results
+2025-07-11 00:02:46,129 | INFO | 1166 | PASSED: Zero results
+2025-07-11 00:02:46,357 | INFO | 1167 | PASSED: Zero results
+2025-07-11 00:02:46,584 | INFO | 1168 | PASSED: Zero results
+2025-07-11 00:02:46,818 | INFO | 1169 | PASSED: Zero results
+2025-07-11 00:02:47,055 | INFO | 1170 | PASSED: Zero results
+2025-07-11 00:02:47,460 | INFO | 1171 | PASSED: duty Fee Tax Amount
+2025-07-11 00:02:48,891 | INFO | 1172 | PASSED: Zero results
+2025-07-11 00:02:49,157 | INFO | 1173 | PASSED: Zero results
+2025-07-11 00:02:49,389 | INFO | 1174 | PASSED: Zero results
+2025-07-11 00:02:49,758 | INFO | 1175 | PASSED: Tax Category Code
+2025-07-11 00:02:51,167 | INFO | 1176 | PASSED: Zero results
+2025-07-11 00:02:51,434 | INFO | 1177 | PASSED: Zero results
+2025-07-11 00:02:51,810 | INFO | 1178 | PASSED: Tax Percentage
+2025-07-11 00:02:53,390 | INFO | 1179 | PASSED: duty Fee Tax Reduction Criteria Description
+2025-07-11 00:02:54,794 | INFO | 1180 | PASSED: Zero results
+2025-07-11 00:02:55,043 | INFO | 1181 | PASSED: Zero results
+2025-07-11 00:02:55,281 | INFO | 1182 | PASSED: Zero results
+2025-07-11 00:02:55,516 | INFO | 1183 | PASSED: Zero results
+2025-07-11 00:02:55,763 | INFO | 1184 | PASSED: Zero results
+2025-07-11 00:02:56,002 | INFO | 1185 | PASSED: Zero results
+2025-07-11 00:02:56,230 | INFO | 1186 | PASSED: Zero results
+2025-07-11 00:02:56,460 | INFO | 1187 | PASSED: Zero results
+2025-07-11 00:02:56,696 | INFO | 1188 | PASSED: Zero results
+2025-07-11 00:02:56,966 | INFO | 1189 | PASSED: Zero results
+2025-07-11 00:02:57,217 | INFO | 1190 | PASSED: Zero results
+2025-07-11 00:02:57,462 | INFO | 1191 | PASSED: Zero results
+2025-07-11 00:02:57,702 | INFO | 1192 | PASSED: Zero results
+2025-07-11 00:02:57,935 | INFO | 1193 | PASSED: Zero results
+2025-07-11 00:02:58,173 | INFO | 1194 | PASSED: Zero results
+2025-07-11 00:02:58,410 | INFO | 1195 | PASSED: Zero results
+2025-07-11 00:02:58,636 | INFO | 1196 | PASSED: Zero results
+2025-07-11 00:02:58,869 | INFO | 1197 | PASSED: Zero results
+2025-07-11 00:02:59,102 | INFO | 1198 | PASSED: Zero results
+2025-07-11 00:02:59,332 | INFO | 1199 | PASSED: Zero results
+2025-07-11 00:02:59,567 | INFO | 1200 | PASSED: Zero results
+2025-07-11 00:02:59,810 | INFO | 1201 | PASSED: Zero results
+2025-07-11 00:03:00,162 | INFO | 1202 | PASSED: Zero results
+2025-07-11 00:03:00,407 | INFO | 1203 | PASSED: Zero results
+2025-07-11 00:03:00,643 | INFO | 1204 | PASSED: Zero results
+2025-07-11 00:03:00,873 | INFO | 1205 | PASSED: Zero results
+2025-07-11 00:03:01,105 | INFO | 1206 | PASSED: Zero results
+2025-07-11 00:03:01,337 | INFO | 1207 | PASSED: Zero results
+2025-07-11 00:03:01,575 | INFO | 1208 | PASSED: Zero results
+2025-07-11 00:03:01,819 | INFO | 1209 | PASSED: Zero results
+2025-07-11 00:03:02,059 | INFO | 1210 | PASSED: Zero results
+2025-07-11 00:03:02,323 | INFO | 1211 | PASSED: Zero results
+2025-07-11 00:03:02,559 | INFO | 1212 | PASSED: Zero results
+2025-07-11 00:03:02,803 | INFO | 1213 | PASSED: Zero results
+2025-07-11 00:03:03,085 | INFO | 1214 | PASSED: Zero results
+2025-07-11 00:03:03,327 | INFO | 1215 | PASSED: Zero results
+2025-07-11 00:03:03,565 | INFO | 1216 | PASSED: Zero results
+2025-07-11 00:03:03,807 | INFO | 1217 | PASSED: Zero results
+2025-07-11 00:03:04,043 | INFO | 1218 | PASSED: Zero results
+2025-07-11 00:03:04,276 | INFO | 1219 | PASSED: Zero results
+2025-07-11 00:03:04,524 | INFO | 1220 | PASSED: Zero results
+2025-07-11 00:03:04,770 | INFO | 1221 | PASSED: Zero results
+2025-07-11 00:03:05,016 | INFO | 1222 | PASSED: Zero results
+2025-07-11 00:03:05,251 | INFO | 1223 | PASSED: Zero results
+2025-07-11 00:03:05,489 | INFO | 1224 | PASSED: Zero results

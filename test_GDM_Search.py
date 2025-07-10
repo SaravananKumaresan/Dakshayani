@@ -51,16 +51,15 @@ def test_gdm_scrap(driver_init):
                 )
             sb.clear()
             sb.send_keys(bid)
-            time.sleep(5)
             search = WebDriverWait(driver_init,10).until(
                 EC.presence_of_element_located((By.XPATH,"//*[@id='app']/div/div[2]/div[2]/section[2]/div/div[1]/div/div/div/i[2]"))
                 )
-            time.sleep(5)
             search.click()
 
             tot_record_ele =  WebDriverWait(driver_init,10).until(
                 EC.element_to_be_clickable((By.XPATH,"//*[@id='app']/div/div[2]/div[2]/section[2]/div/div[3]/div/div/table/tfoot/tr/td/span"))
                 )
+            print(tot_record_ele.text)
             if  tot_record_ele.text != NO_RECORDS:
 
                 result = WebDriverWait(driver_init,10).until(
@@ -68,41 +67,49 @@ def test_gdm_scrap(driver_init):
                     )
                 texts = driver_init.find_element(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/section[2]/div/div[3]/div/div/table/tbody/a[1]/td[1]").text
                 if int(texts) == bid:
+                    print('Hi')
                     driver_init.execute_script("arguments[0].scrollIntoView({behaviour: 'smooth',block:'center'});",result)
                     driver_init.execute_script("arguments[0].click();",result)
 
-                b_name_ele = WebDriverWait(driver_init,20).until(
+                    b_name_ele = WebDriverWait(driver_init,20).until(
                     EC.element_to_be_clickable((By.XPATH,"//*[@id='app']/div/div[2]/div[2]/section[2]/div/div[2]/div/div[1]/div[1]/ul/li[1]/span[1]"))
                     )
-                b_name = driver_init.find_element(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/section[2]/div/div[2]/div/div[1]/div[1]/ul/li[1]/span[2]").text
+                    b_name = driver_init.find_element(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/section[2]/div/div[2]/div/div[1]/div[1]/ul/li[1]/span[2]").text
     
-                if not b_name:
-                    try:
-                        t_name = WebDriverWait(driver_init,20).until(
-                        EC.element_to_be_clickable((By.XPATH,"//*[@id='app']/div/div[2]/div[2]/section[2]/div/div[2]/div/div[1]/div[2]/ul/li[1]/span[2]"))
-                        )
-                        t_name =re.sub(r'(?<!^)(?=[A-Z])',' ',t_name.text)
-                        out_dict[bid]=t_name
-                        logging.info(f"{str(bid).zfill(4)} | PASSED: {str(t_name)}")
-                    except :
-                        out_dict[bid]='NO Tname and no Bname'
-                        logging.info(f"{str(bid).zfill(4)} | PASSED: {str("NO Tname and no Bname")}")
-                        go_back_btn = WebDriverWait(driver_init,20).until(
+                    if not b_name:
+                        try:
+                            t_name = WebDriverWait(driver_init,20).until(
+                            EC.element_to_be_clickable((By.XPATH,"//*[@id='app']/div/div[2]/div[2]/section[2]/div/div[2]/div/div[1]/div[2]/ul/li[1]/span[2]"))
+                            )
+                            t_name =re.sub(r'(?<!^)(?=[A-Z])',' ',t_name.text)
+                            out_dict[bid]=t_name
+                            logging.info(f"{str(bid).zfill(4)} | PASSED: {str(t_name)}")
+                        except :
+                            out_dict[bid]='NO Tname and no Bname'
+                            logging.info(f"{str(bid).zfill(4)} | PASSED: {str("NO Tname and no Bname")}")
+                            go_back_btn = WebDriverWait(driver_init,20).until(
+                            EC.element_to_be_clickable((By.XPATH,"//*[@id='goBackButton']"))
+                            )
+                            go_back_btn.click()                      
+                    else:
+                        out_dict[bid]=b_name
+                        logging.info(f"{str(bid).zfill(4)} | PASSED: {str(b_name)}")
+                    
+                    go_back_btn = WebDriverWait(driver_init,20).until(
                         EC.element_to_be_clickable((By.XPATH,"//*[@id='goBackButton']"))
                         )
-                        go_back_btn.click()                      
+                    go_back_btn.click()
                 else:
-                    out_dict[bid]=b_name
-                    logging.info(f"{str(bid).zfill(4)} | PASSED: {str(b_name)}")
-                go_back_btn = WebDriverWait(driver_init,20).until(
-                    EC.element_to_be_clickable((By.XPATH,"//*[@id='goBackButton']"))
-                    )
-                go_back_btn.click()                   
+                    print('am in else')
+                    out_dict[bid]="No results"
+                    logging.info(f"{str(bid).zfill(4)} | PASSED: Zero results")
+                                       
             else:
                 out_dict[bid]="No results"
                 logging.info(f"{str(bid).zfill(4)} | PASSED: Zero results")
         except Exception as e:
-             logging.error(f"{str(bid).zfill(4)} | FAILED: {str(e)}")
+            print('heloo')
+            logging.error(f"{str(bid).zfill(4)} | FAILED: {'NO Tname and no Bname'}")
             
 
 def test_export():
