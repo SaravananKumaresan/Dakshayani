@@ -1,0 +1,277 @@
+2025-07-11 13:18:01,872 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:18:02,034 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:18:02,180 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:18:02,332 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:18:02,482 | INFO | 0005 | PASSED: Zero results
+2025-07-11 13:18:02,616 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:18:02,755 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:18:02,905 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:18:03,386 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:18:03,586 | INFO | 0010 | PASSED: Zero results
+2025-07-11 13:18:03,794 | INFO | 0011 | PASSED: Zero results
+2025-07-11 13:18:03,985 | INFO | 0012 | PASSED: Zero results
+2025-07-11 13:18:04,192 | INFO | 0013 | PASSED: Zero results
+2025-07-11 13:18:04,394 | INFO | 0014 | PASSED: Zero results
+2025-07-11 13:18:04,574 | INFO | 0015 | PASSED: Zero results
+2025-07-11 13:18:04,765 | INFO | 0016 | PASSED: Zero results
+2025-07-11 13:18:04,962 | INFO | 0017 | PASSED: Zero results
+2025-07-11 13:18:05,157 | INFO | 0018 | PASSED: Zero results
+2025-07-11 13:18:05,332 | INFO | 0019 | PASSED: Zero results
+2025-07-11 13:18:05,511 | INFO | 0020 | PASSED: Zero results
+2025-07-11 13:18:05,712 | INFO | 0021 | PASSED: Zero results
+2025-07-11 13:18:05,903 | INFO | 0022 | PASSED: Zero results
+2025-07-11 13:18:06,086 | INFO | 0023 | PASSED: Zero results
+2025-07-11 13:18:06,277 | INFO | 0024 | PASSED: Zero results
+2025-07-11 13:18:06,482 | INFO | 0025 | PASSED: Zero results
+2025-07-11 13:18:06,657 | INFO | 0026 | PASSED: Zero results
+2025-07-11 13:18:06,849 | INFO | 0027 | PASSED: Zero results
+2025-07-11 13:18:07,046 | INFO | 0028 | PASSED: Zero results
+2025-07-11 13:18:07,233 | INFO | 0029 | PASSED: Zero results
+2025-07-11 13:18:07,409 | INFO | 0030 | PASSED: Zero results
+2025-07-11 13:18:07,596 | INFO | 0031 | PASSED: Zero results
+2025-07-11 13:18:07,780 | INFO | 0032 | PASSED: Zero results
+2025-07-11 13:18:07,957 | INFO | 0033 | PASSED: Zero results
+2025-07-11 13:18:08,140 | INFO | 0034 | PASSED: Zero results
+2025-07-11 13:18:08,318 | INFO | 0035 | PASSED: Zero results
+2025-07-11 13:18:08,528 | INFO | 0036 | PASSED: Zero results
+2025-07-11 13:18:08,711 | INFO | 0037 | PASSED: Zero results
+2025-07-11 13:18:08,894 | INFO | 0038 | PASSED: Zero results
+2025-07-11 13:18:09,084 | INFO | 0039 | PASSED: Zero results
+2025-07-11 13:18:09,825 | INFO | 0040 | PASSED: Authorised Receiver of Product Information GLN (Global Location Number)
+2025-07-11 13:18:11,127 | INFO | 0041 | PASSED: Zero results
+2025-07-11 13:18:11,348 | INFO | 0042 | PASSED: Zero results
+2025-07-11 13:18:11,541 | INFO | 0043 | PASSED: Zero results
+2025-07-11 13:18:11,727 | INFO | 0044 | PASSED: Zero results
+2025-07-11 13:18:11,976 | INFO | 0045 | PASSED: Zero results
+2025-07-11 13:18:12,159 | INFO | 0046 | PASSED: Zero results
+2025-07-11 13:18:12,346 | INFO | 0047 | PASSED: Zero results
+2025-07-11 13:18:12,546 | INFO | 0048 | PASSED: Zero results
+2025-07-11 13:18:12,993 | INFO | 0049 | PASSED: Zero results
+2025-07-11 13:18:13,182 | INFO | 0050 | PASSED: Zero results
+2025-07-11 13:18:13,373 | INFO | 0051 | PASSED: Zero results
+2025-07-11 13:18:13,562 | INFO | 0052 | PASSED: Zero results
+2025-07-11 13:18:13,771 | INFO | 0053 | PASSED: Zero results
+2025-07-11 13:18:13,956 | INFO | 0054 | PASSED: Zero results
+2025-07-11 13:18:14,127 | INFO | 0055 | PASSED: Zero results
+2025-07-11 13:18:14,382 | INFO | 0056 | PASSED: Base Unit Indicator
+2025-07-11 13:18:15,450 | INFO | 0057 | PASSED: Consumer Unit Indicator
+2025-07-11 13:18:16,539 | INFO | 0058 | PASSED: Shipping Unit Indicator
+2025-07-11 13:18:17,862 | INFO | 0059 | PASSED: is Trade Item An Invoice Unit
+2025-07-11 13:18:18,940 | INFO | 0060 | PASSED: Orderable Unit Indicator
+2025-07-11 13:18:20,072 | INFO | 0061 | PASSED: is Trade Item A Service
+2025-07-11 13:18:21,119 | INFO | 0062 | PASSED: Zero results
+2025-07-11 13:18:21,348 | INFO | 0063 | PASSED: Zero results
+2025-07-11 13:18:21,629 | INFO | 0064 | PASSED: preliminary Item Status Code
+2025-07-11 13:18:22,822 | INFO | 0065 | PASSED: trade Item Trade Channel Code
+2025-07-11 13:18:23,924 | INFO | 0066 | PASSED: Product Hierarchy Level Code
+2025-07-11 13:18:25,049 | INFO | 0067 | PASSED: GTIN (Global Trade Item Number)
+2025-07-11 13:18:26,363 | INFO | 0068 | PASSED: Additional Product Identification
+2025-07-11 13:18:27,562 | INFO | 0069 | PASSED: Additional Product Identification Type Code
+2025-07-11 13:18:28,806 | INFO | 0070 | PASSED: Zero results
+2025-07-11 13:18:29,045 | INFO | 0071 | PASSED: Zero results
+2025-07-11 13:18:29,336 | INFO | 0072 | PASSED: additional Party Identification
+2025-07-11 13:18:30,467 | INFO | 0073 | PASSED: additional Party Identification Type Code
+2025-07-11 13:18:31,560 | INFO | 0074 | PASSED: Zero results
+2025-07-11 13:18:31,848 | INFO | 0075 | PASSED: Brand Owner GLN (Global Location Number)
+2025-07-11 13:18:33,061 | INFO | 0076 | PASSED: party Address
+2025-07-11 13:18:34,183 | INFO | 0077 | PASSED: Brand Owner Name
+2025-07-11 13:18:35,191 | INFO | 0078 | PASSED: Zero results
+2025-07-11 13:18:35,417 | INFO | 0079 | PASSED: Zero results
+2025-07-11 13:18:35,731 | INFO | 0080 | PASSED: additional Party Identification
+2025-07-11 13:18:36,852 | INFO | 0081 | PASSED: additional Party Identification Type Code
+2025-07-11 13:18:37,896 | INFO | 0082 | PASSED: Zero results
+2025-07-11 13:18:38,168 | INFO | 0083 | PASSED: Data Provider GLN (Global Location Number)
+2025-07-11 13:18:39,206 | INFO | 0084 | PASSED: Zero results
+2025-07-11 13:18:39,478 | INFO | 0085 | PASSED: Data Provider Name
+2025-07-11 13:18:40,543 | INFO | 0086 | PASSED: Zero results
+2025-07-11 13:18:40,748 | INFO | 0087 | PASSED: Zero results
+2025-07-11 13:18:40,961 | INFO | 0088 | PASSED: Zero results
+2025-07-11 13:18:41,154 | INFO | 0089 | PASSED: Zero results
+2025-07-11 13:18:41,344 | INFO | 0090 | PASSED: Zero results
+2025-07-11 13:18:41,607 | INFO | 0091 | PASSED: Manufacturing GLN (Global Location Number)
+2025-07-11 13:18:42,702 | INFO | 0092 | PASSED: party Address
+2025-07-11 13:18:43,829 | INFO | 0093 | PASSED: Manufacturer Name
+2025-07-11 13:18:44,952 | INFO | 0094 | PASSED: Zero results
+2025-07-11 13:18:45,154 | INFO | 0095 | PASSED: Zero results
+2025-07-11 13:18:45,346 | INFO | 0096 | PASSED: Zero results
+2025-07-11 13:18:45,544 | INFO | 0097 | PASSED: Zero results
+2025-07-11 13:18:45,728 | INFO | 0098 | PASSED: Zero results
+2025-07-11 13:18:45,918 | INFO | 0099 | PASSED: Zero results
+2025-07-11 13:18:46,103 | INFO | 0100 | PASSED: Zero results
+2025-07-11 13:18:46,378 | INFO | 0101 | PASSED: party Name
+2025-07-11 13:18:47,388 | INFO | 0102 | PASSED: Zero results
+2025-07-11 13:18:47,580 | INFO | 0103 | PASSED: Zero results
+2025-07-11 13:18:47,768 | INFO | 0104 | PASSED: Zero results
+2025-07-11 13:18:47,987 | INFO | 0105 | PASSED: Zero results
+2025-07-11 13:18:48,181 | INFO | 0106 | PASSED: Zero results
+2025-07-11 13:18:48,387 | INFO | 0107 | PASSED: Zero results
+2025-07-11 13:18:48,581 | INFO | 0108 | PASSED: Zero results
+2025-07-11 13:18:48,763 | INFO | 0109 | PASSED: Zero results
+2025-07-11 13:18:48,932 | INFO | 0110 | PASSED: Zero results
+2025-07-11 13:18:49,096 | INFO | 0111 | PASSED: Zero results
+2025-07-11 13:18:49,376 | INFO | 0112 | PASSED: Country Of Sale Code
+2025-07-11 13:18:50,371 | INFO | 0113 | PASSED: Zero results
+2025-07-11 13:18:50,576 | INFO | 0114 | PASSED: Zero results
+2025-07-11 13:18:50,827 | INFO | 0115 | PASSED: Referenced GTIN Type Code
+2025-07-11 13:18:51,939 | INFO | 0116 | PASSED: Referenced GTIN
+2025-07-11 13:18:53,072 | INFO | 0117 | PASSED: additional Trade Item Identification
+2025-07-11 13:18:54,552 | INFO | 0118 | PASSED: additional Trade Item Identification/@additional Trade Item Identification/@additional Trade Item Identification Type Code
+2025-07-11 13:18:55,497 | INFO | 0119 | PASSED: Zero results
+2025-07-11 13:18:55,680 | INFO | 0120 | PASSED: Zero results
+2025-07-11 13:18:55,975 | INFO | 0121 | PASSED: Contact Information Available Time
+2025-07-11 13:18:56,897 | INFO | 0122 | PASSED: Zero results
+2025-07-11 13:18:57,167 | INFO | 0123 | PASSED: Contact Address
+2025-07-11 13:18:58,306 | ERROR | 0123 | FAILED: NO Tname and no Bname
+2025-07-11 13:19:02,386 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FD26F77750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ba7a103a82ebaf1a125ec8316244d038/element
+2025-07-11 13:26:50,068 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:26:50,205 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:26:50,341 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:26:50,474 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:26:50,602 | INFO | 1525 | PASSED: Zero results
+2025-07-11 13:26:50,734 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:26:50,864 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:26:50,991 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:26:51,113 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:27:28,182 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:27:28,316 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:27:28,459 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:27:28,593 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:27:28,725 | INFO | 1525 | PASSED: Zero results
+2025-07-11 13:27:28,857 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:27:28,984 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:27:29,113 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:27:29,239 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:29:38,829 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:29:38,965 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:29:39,098 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:29:39,221 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:29:39,353 | INFO | 1525 | PASSED: Zero results
+2025-07-11 13:29:39,483 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:29:39,606 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:29:39,736 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:29:39,863 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:31:08,219 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:31:08,352 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:31:08,497 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:31:08,620 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:31:08,750 | INFO | 1525 | PASSED: Zero results
+2025-07-11 13:31:08,876 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:31:09,003 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:31:09,130 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:31:09,253 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:32:57,672 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:32:57,809 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:32:57,942 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:32:58,074 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:32:58,216 | INFO | 1525 | PASSED: Zero results
+2025-07-11 13:32:58,341 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:32:58,460 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:32:58,586 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:32:58,707 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:33:45,841 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:33:45,972 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:33:46,112 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:33:46,236 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:33:46,361 | INFO | 1525 | PASSED: Zero results
+2025-07-11 13:33:46,485 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:33:46,605 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:33:46,730 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:33:46,850 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:35:07,091 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:35:07,251 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:35:07,401 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:35:07,541 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:35:07,681 | INFO | 1525 | PASSED: Zero results
+2025-07-11 13:35:07,817 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:35:07,957 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:35:08,099 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:35:08,246 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:38:53,939 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:38:56,123 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:38:58,328 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:39:00,546 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:39:05,377 | INFO | 1525 | PASSED: short Trade Item Marketing Message
+2025-07-11 13:39:08,373 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:39:10,588 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:39:12,795 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:39:15,005 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:41:02,621 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:41:05,802 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:41:09,000 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:41:14,652 | ERROR | 0004 | FAILED: NO Tname and no Bname
+2025-07-11 13:41:18,757 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2A23D7750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6b4c9871870ccd818b0536ea6e95b3be/element
+2025-07-11 13:41:22,855 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2C2F44CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6b4c9871870ccd818b0536ea6e95b3be/element
+2025-07-11 13:41:26,947 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2C2E62B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6b4c9871870ccd818b0536ea6e95b3be/element
+2025-07-11 13:41:31,055 | ERROR | 1525 | FAILED: NO Tname and no Bname
+2025-07-11 13:43:32,639 | INFO | 0167 | PASSED: gpc Attribute Type Definition
+2025-07-11 13:43:36,166 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:43:39,390 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:43:42,868 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:43:48,191 | INFO | 1525 | PASSED: short Trade Item Marketing Message
+2025-07-11 13:43:52,159 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:43:55,380 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:43:58,636 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:44:01,878 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:46:08,257 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:46:09,824 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:46:11,031 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:46:12,247 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:46:16,061 | INFO | 1525 | PASSED: short Trade Item Marketing Message
+2025-07-11 13:46:18,360 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:46:19,932 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:46:21,161 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:46:22,359 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:53:56,030 | ERROR | 0167 | FAILED: NO Tname and no Bname
+2025-07-11 13:53:56,149 | ERROR | 0002 | FAILED: NO Tname and no Bname
+2025-07-11 13:53:56,267 | ERROR | 0003 | FAILED: NO Tname and no Bname
+2025-07-11 13:53:56,399 | ERROR | 0004 | FAILED: NO Tname and no Bname
+2025-07-11 13:53:56,517 | ERROR | 1525 | FAILED: NO Tname and no Bname
+2025-07-11 13:53:56,644 | ERROR | 0006 | FAILED: NO Tname and no Bname
+2025-07-11 13:53:56,764 | ERROR | 0007 | FAILED: NO Tname and no Bname
+2025-07-11 13:53:56,885 | ERROR | 0008 | FAILED: NO Tname and no Bname
+2025-07-11 13:53:57,003 | ERROR | 0009 | FAILED: NO Tname and no Bname
+2025-07-11 13:54:30,126 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:54:30,268 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:54:30,408 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:54:30,531 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:54:30,656 | INFO | 1525 | PASSED: Zero results
+2025-07-11 13:54:30,781 | INFO | 0006 | PASSED: Zero results
+2025-07-11 13:54:30,905 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:54:31,035 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:54:31,469 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:55:43,289 | INFO | 0058 | PASSED: Zero results
+2025-07-11 13:55:43,440 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:55:43,590 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:55:43,719 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:55:43,853 | INFO | 1525 | PASSED: Zero results
+2025-07-11 13:55:44,008 | INFO | 0167 | PASSED: Zero results
+2025-07-11 13:55:44,147 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:55:44,284 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:55:44,422 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:56:48,534 | INFO | 0058 | PASSED: Zero results
+2025-07-11 13:56:50,710 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:56:52,933 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:56:55,146 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:57:00,428 | INFO | 1525 | PASSED: short Trade Item Marketing Message
+2025-07-11 13:57:05,444 | INFO | 0167 | PASSED: gpc Attribute Type Definition
+2025-07-11 13:57:08,373 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:57:10,592 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:57:12,816 | INFO | 0009 | PASSED: Zero results
+2025-07-11 13:57:58,146 | INFO | 0058 | PASSED: Zero results
+2025-07-11 13:57:59,334 | INFO | 0002 | PASSED: Zero results
+2025-07-11 13:58:00,532 | INFO | 0003 | PASSED: Zero results
+2025-07-11 13:58:01,733 | INFO | 0004 | PASSED: Zero results
+2025-07-11 13:58:05,504 | INFO | 1525 | PASSED: short Trade Item Marketing Message
+2025-07-11 13:58:09,352 | INFO | 0167 | PASSED: gpc Attribute Type Definition
+2025-07-11 13:58:11,337 | INFO | 0007 | PASSED: Zero results
+2025-07-11 13:58:12,582 | INFO | 0008 | PASSED: Zero results
+2025-07-11 13:58:13,796 | INFO | 0009 | PASSED: Zero results
+2025-07-11 14:02:31,619 | INFO | 0058 | PASSED: Shipping Unit Indicator
+2025-07-11 14:02:32,128 | INFO | 0002 | PASSED: Zero results
+2025-07-11 14:02:32,329 | INFO | 0003 | PASSED: Zero results
+2025-07-11 14:02:32,510 | INFO | 0004 | PASSED: Zero results
+2025-07-11 14:02:34,766 | INFO | 1525 | PASSED: short Trade Item Marketing Message
+2025-07-11 14:02:37,312 | INFO | 0167 | PASSED: gpc Attribute Type Definition
+2025-07-11 14:02:39,313 | INFO | 0007 | PASSED: Zero results
+2025-07-11 14:02:39,531 | INFO | 0008 | PASSED: Zero results
+2025-07-11 14:02:39,732 | INFO | 0009 | PASSED: Zero results
